@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Family photos</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Family2013-14/album.rss" title="Family2013-14" thumbnail="Family2013-14/thumbs/EmmaAug2013.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="FamilyPhotos%202001%20-%202012/album.rss" title="FamilyPhotos 2001 - 2012" thumbnail="FamilyPhotos%202001%20-%202012/2001/Baby%20Skye/thumbs/05InWalkerJune2002.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Sandra%20family/album.rss" title="Sandra family" thumbnail="Sandra%20family/thumbs/Emma%20sings_%20Be%20Kind%20to%20Your%20Parents.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Vivian%20family/album.rss" title="Vivian family" thumbnail="Vivian%20family/thumbs/noelBirthday12.png" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

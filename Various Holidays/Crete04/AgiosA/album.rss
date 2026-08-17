@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>AgiosA</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Agios-Kritsa</title>
+            <link>slides/1.Agios-Kritsa.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Agios-Kritsa.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Agios-Kritsa.jpg" width="498" height="386"/>
+            <guid isPermaLink="false">slides/1.Agios-Kritsa.jpg</guid>
+        </item>
+        <item>
+            <title>2.Agios Nikolaus, LakeVoulismeni</title>
+            <link>slides/2.Agios%20Nikolaus%2C%20LakeVoulismeni.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Agios%20Nikolaus%2C%20LakeVoulismeni.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Agios%20Nikolaus%2C%20LakeVoulismeni.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Agios%20Nikolaus%2C%20LakeVoulismeni.jpg</guid>
+        </item>
+        <item>
+            <title>3.Hamilo Church</title>
+            <link>slides/3.Hamilo%20Church.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Hamilo%20Church.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Hamilo%20Church.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Hamilo%20Church.jpg</guid>
+        </item>
+        <item>
+            <title>4.View back to Hamilo</title>
+            <link>slides/4.View%20back%20to%20Hamilo.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.View%20back%20to%20Hamilo.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.View%20back%20to%20Hamilo.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.View%20back%20to%20Hamilo.jpg</guid>
+        </item>
+        <item>
+            <title>5.Sea of olive trees</title>
+            <link>slides/5.Sea%20of%20olive%20trees.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Sea%20of%20olive%20trees.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Sea%20of%20olive%20trees.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Sea%20of%20olive%20trees.jpg</guid>
+        </item>
+        <item>
+            <title>6.Sea of Olivetrees below Lato</title>
+            <link>slides/6.Sea%20of%20Olivetrees%20below%20Lato.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Sea%20of%20Olivetrees%20below%20Lato.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Sea%20of%20Olivetrees%20below%20Lato.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Sea%20of%20Olivetrees%20below%20Lato.jpg</guid>
+        </item>
+        <item>
+            <title>7.Watering olive trees</title>
+            <link>slides/7.Watering%20olive%20trees.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.Watering%20olive%20trees.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/7.Watering%20olive%20trees.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/7.Watering%20olive%20trees.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Family2013-14</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Emma Aug 3013</title>
+            <link>slides/EmmaAug2013.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/EmmaAug2013.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/EmmaAug2013.jpg" width="540" height="720"/>
+            <guid isPermaLink="false">slides/EmmaAug2013.jpg</guid>
+        </item>
+        <item>
+            <title>Two babies</title>
+            <link>slides/TwoBabies%20Fall2013.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TwoBabies%20Fall2013.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/TwoBabies%20Fall2013.jpg" width="360" height="270"/>
+            <guid isPermaLink="false">slides/TwoBabies%20Fall2013.jpg</guid>
+        </item>
+        <item>
+            <title>Vivian and family</title>
+            <link>slides/VivianFamily2013.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/VivianFamily2013.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/VivianFamily2013.jpeg" width="758" height="723"/>
+            <jalbum:exif originalDate="" cameraMake="EPSON" cameraModel="WF-2520/2530/2540"/>
+            <guid isPermaLink="false">slides/VivianFamily2013.jpeg</guid>
+        </item>
+        <item>
+            <title>Emma</title>
+            <link>slides/Emma2013.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Emma2013.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Emma2013.JPG" width="432" height="576"/>
+            <jalbum:exif originalDate="Thu, 10 Oct 2013 08:36:54 -0400" cameraMake="Apple" cameraModel="iPhone 5"/>
+            <guid isPermaLink="false">slides/Emma2013.JPG</guid>
+        </item>
+        <item>
+            <title>Two Boys</title>
+            <link>slides/TwoBoys.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TwoBoys.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/TwoBoys.jpg" width="506" height="380"/>
+            <guid isPermaLink="false">slides/TwoBoys.jpg</guid>
+        </item>
+        <item>
+            <title>Two babies</title>
+            <link>slides/TwoBabies.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TwoBabies.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/TwoBabies.jpg" width="640" height="618"/>
+            <guid isPermaLink="false">slides/TwoBabies.jpg</guid>
+        </item>
+        <item>
+            <title>Two babies with bubbles</title>
+            <link>slides/TwoBabes%20with%20bubbles.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TwoBabes%20with%20bubbles.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/TwoBabes%20with%20bubbles.jpg" width="506" height="380"/>
+            <guid isPermaLink="false">slides/TwoBabes%20with%20bubbles.jpg</guid>
+        </item>
+        <item>
+            <title>Don&apos; cut down trees by Emma</title>
+            <link>slides/Dont%20cut%20down%20trees%20by%20Emma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Dont%20cut%20down%20trees%20by%20Emma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Dont%20cut%20down%20trees%20by%20Emma.jpg" width="540" height="720"/>
+            <guid isPermaLink="false">slides/Dont%20cut%20down%20trees%20by%20Emma.jpg</guid>
+        </item>
+        <item>
+            <title>Chalk - I love summer</title>
+            <link>slides/Chalk%20-%20I%20love%20summer%20by%20Emma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalk%20-%20I%20love%20summer%20by%20Emma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Chalk%20-%20I%20love%20summer%20by%20Emma.jpg" width="320" height="394"/>
+            <guid isPermaLink="false">slides/Chalk%20-%20I%20love%20summer%20by%20Emma.jpg</guid>
+        </item>
+        <item>
+            <title>Two babies 2014</title>
+            <link>slides/TwoBabies2014.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TwoBabies2014.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/TwoBabies2014.jpg" width="506" height="380"/>
+            <guid isPermaLink="false">slides/TwoBabies2014.jpg</guid>
+        </item>
+        <item>
+            <title>Emma 2014</title>
+            <link>slides/Emma2014-03.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Emma2014-03.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Emma2014-03.jpg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/Emma2014-03.jpg</guid>
+        </item>
+        <item>
+            <title>Emma</title>
+            <link>slides/Emma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Emma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Emma.jpg" width="180" height="240"/>
+            <guid isPermaLink="false">slides/Emma.jpg</guid>
+        </item>
+        <item>
+            <title>Silvia in October</title>
+            <link>slides/Silvia%20in%20October.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Silvia%20in%20October.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Silvia%20in%20October.jpg" width="576" height="768"/>
+            <jalbum:exif originalDate="Wed, 03 Oct 2012 11:46:29 -0400" cameraMake="SAMSUNG" cameraModel="SGH-I727R"/>
+            <guid isPermaLink="false">slides/Silvia%20in%20October.jpg</guid>
+        </item>
+        <item>
+            <title>Emma wins award</title>
+            <link>slides/Emma%20wins%20award.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Emma%20wins%20award.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Emma%20wins%20award.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 28 Nov 2012 09:23:43 -0500" cameraMake="Research In Motion" cameraModel="BlackBerry 9810"/>
+            <guid isPermaLink="false">slides/Emma%20wins%20award.jpg</guid>
+        </item>
+    </channel>
+</rss>

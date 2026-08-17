@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Music Festival 2008</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>West Ben</title>
+            <link>slides/01Westben.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01Westben.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01Westben.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/01Westben.jpg</guid>
+        </item>
+        <item>
+            <title>Keith and Normaat dinner</title>
+            <link>slides/02Blacksmiths%2C%20K%20and%20N%2C%20dinner.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02Blacksmiths%2C%20K%20and%20N%2C%20dinner.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02Blacksmiths%2C%20K%20and%20N%2C%20dinner.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/02Blacksmiths%2C%20K%20and%20N%2C%20dinner.jpg</guid>
+        </item>
+        <item>
+            <title>Ranney Falls, Cambellford</title>
+            <link>slides/03Ranney%20falls%2C%20Cambellford.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03Ranney%20falls%2C%20Cambellford.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03Ranney%20falls%2C%20Cambellford.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/03Ranney%20falls%2C%20Cambellford.jpg</guid>
+        </item>
+        <item>
+            <title>Forest Festival - Onnanoko stage</title>
+            <link>slides/04Forest%20festival%20-%20Onnanoko%2C%20the%20stage.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04Forest%20festival%20-%20Onnanoko%2C%20the%20stage.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04Forest%20festival%20-%20Onnanoko%2C%20the%20stage.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/04Forest%20festival%20-%20Onnanoko%2C%20the%20stage.jpg</guid>
+        </item>
+        <item>
+            <title>The audience</title>
+            <link>slides/05forest%20festival%20-%20Onnanoko%2C%20the%20audience.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05forest%20festival%20-%20Onnanoko%2C%20the%20audience.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05forest%20festival%20-%20Onnanoko%2C%20the%20audience.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/05forest%20festival%20-%20Onnanoko%2C%20the%20audience.jpg</guid>
+        </item>
+        <item>
+            <title>Ensemble</title>
+            <link>slides/06forest%20festival%20-%20Onnanoko%20ensemble.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06forest%20festival%20-%20Onnanoko%20ensemble.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06forest%20festival%20-%20Onnanoko%20ensemble.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/06forest%20festival%20-%20Onnanoko%20ensemble.jpg</guid>
+        </item>
+        <item>
+            <title>Concert at Bone Lake, Festival Brass</title>
+            <link>slides/07Concert%20at%20Bone%20lake%2CFestival%20Brass.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07Concert%20at%20Bone%20lake%2CFestival%20Brass.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/07Concert%20at%20Bone%20lake%2CFestival%20Brass.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/07Concert%20at%20Bone%20lake%2CFestival%20Brass.jpg</guid>
+        </item>
+        <item>
+            <title>Norma in canoenat Bonnieview</title>
+            <link>slides/08Norma%20in%20canoe%20at%20Bonnieview.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08Norma%20in%20canoe%20at%20Bonnieview.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/08Norma%20in%20canoe%20at%20Bonnieview.jpg" width="1200" height="675"/>
+            <guid isPermaLink="false">slides/08Norma%20in%20canoe%20at%20Bonnieview.jpg</guid>
+        </item>
+    </channel>
+</rss>

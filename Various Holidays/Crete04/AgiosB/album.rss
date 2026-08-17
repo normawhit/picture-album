@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>AgiosB</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Elounda-Plaka</title>
+            <link>slides/1.Elounda-Plaka.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Elounda-Plaka.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Elounda-Plaka.jpg" width="365" height="324"/>
+            <guid isPermaLink="false">slides/1.Elounda-Plaka.jpg</guid>
+        </item>
+        <item>
+            <title>2.Windmills above pines</title>
+            <link>slides/2.Windmills%20above%20pines.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Windmills%20above%20pines.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Windmills%20above%20pines.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Windmills%20above%20pines.jpg</guid>
+        </item>
+        <item>
+            <title>3.Operator inside</title>
+            <link>slides/3.Operator%20inside.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Operator%20inside.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Operator%20inside.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Operator%20inside.jpg</guid>
+        </item>
+        <item>
+            <title>4.And his wife</title>
+            <link>slides/4.And%20his%20wife.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.And%20his%20wife.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.And%20his%20wife.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.And%20his%20wife.jpg</guid>
+        </item>
+        <item>
+            <title>5.Ancient olive tree</title>
+            <link>slides/5.Ancient%20olive%20tree.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Ancient%20olive%20tree.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Ancient%20olive%20tree.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Ancient%20olive%20tree.jpg</guid>
+        </item>
+        <item>
+            <title>6.Firstview of Plaka</title>
+            <link>slides/6.Firstview%20of%20Plaka.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Firstview%20of%20Plaka.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Firstview%20of%20Plaka.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Firstview%20of%20Plaka.jpg</guid>
+        </item>
+    </channel>
+</rss>

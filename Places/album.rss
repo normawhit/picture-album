@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Places</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Blue%20Sea%202021/album.rss" title="Blue Sea 2021" thumbnail="Blue%20Sea%202021/thumbs/Boys.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Glenforest%20Crescent/album.rss" title="Glenforext Crescent" thumbnail="Glenforest%20Crescent/thumbs/Norma%20with%20eBike.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Lang%20Pioneer%20Village/album.rss" title="Lang Pioneer Village" thumbnail="Lang%20Pioneer%20Village/thumbs/Renee%20and%20Norma%20Lang%20Sept%202020.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Munich/album.rss" title="Munich" thumbnail="Munich/thumbs/Beautiful%20Wlak.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Scotland/album.rss" title="Scotland" thumbnail="Scotland/thumbs/2023AllSmilesinScotland.png" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

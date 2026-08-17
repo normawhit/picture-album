@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>AgiosC</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.View right to Spinalonga Peninsula</title>
+            <link>slides/1.View%20right%20to%20Spinalonga%20Peninsula.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.View%20right%20to%20Spinalonga%20Peninsula.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.View%20right%20to%20Spinalonga%20Peninsula.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/1.View%20right%20to%20Spinalonga%20Peninsula.jpg</guid>
+        </item>
+        <item>
+            <title>2.Orno Oros (Mountains) in back</title>
+            <link>slides/2.Orno%20Oros%20%28Mountains%29%20in%20back.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Orno%20Oros%20%28Mountains%29%20in%20back.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Orno%20Oros%20%28Mountains%29%20in%20back.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Orno%20Oros%20%28Mountains%29%20in%20back.jpg</guid>
+        </item>
+        <item>
+            <title>3.Plaka and peninsula</title>
+            <link>slides/3.Plaka%20and%20peninsula.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Plaka%20and%20peninsula.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Plaka%20and%20peninsula.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Plaka%20and%20peninsula.jpg</guid>
+        </item>
+        <item>
+            <title>4.Spinalonga from Spinalonga Tavern</title>
+            <link>slides/4.Spinalonga%20from%20Spinalonga%20Tavern.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Spinalonga%20from%20Spinalonga%20Tavern.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Spinalonga%20from%20Spinalonga%20Tavern.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Spinalonga%20from%20Spinalonga%20Tavern.jpg</guid>
+        </item>
+        <item>
+            <title>5.Stony beach at Plaka</title>
+            <link>slides/5.Stony%20beach%20at%20Plaka.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Stony%20beach%20at%20Plaka.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Stony%20beach%20at%20Plaka.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Stony%20beach%20at%20Plaka.jpg</guid>
+        </item>
+    </channel>
+</rss>

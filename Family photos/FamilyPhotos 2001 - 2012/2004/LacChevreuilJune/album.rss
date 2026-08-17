@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Lac Chevreuil</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>16hudsonokaferry</title>
+            <link>slides/16hudsonokaferry.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16hudsonokaferry.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/16hudsonokaferry.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/16hudsonokaferry.jpg</guid>
+        </item>
+        <item>
+            <title>17hudsonokaferry</title>
+            <link>slides/17hudsonokaferry.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17hudsonokaferry.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/17hudsonokaferry.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/17hudsonokaferry.jpg</guid>
+        </item>
+        <item>
+            <title>18cottagekmonbalcony</title>
+            <link>slides/18cottagekmonbalcony.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18cottagekmonbalcony.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/18cottagekmonbalcony.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/18cottagekmonbalcony.jpg</guid>
+        </item>
+        <item>
+            <title>Keith and Margaret relaxing</title>
+            <link>slides/19Keithmargaretrelaxing.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19Keithmargaretrelaxing.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/19Keithmargaretrelaxing.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/19Keithmargaretrelaxing.jpg</guid>
+        </item>
+        <item>
+            <title>Lac Chevreuil</title>
+            <link>slides/20lacchevreuil.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20lacchevreuil.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20lacchevreuil.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/20lacchevreuil.jpg</guid>
+        </item>
+        <item>
+            <title>Norma in canoe</title>
+            <link>slides/21Normacanoe.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21Normacanoe.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/21Normacanoe.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/21Normacanoe.jpg</guid>
+        </item>
+    </channel>
+</rss>

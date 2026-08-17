@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Blue Sea June 2006</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Blue Sea Group</title>
+            <link>slides/blueseagroup.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/blueseagroup.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/blueseagroup.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Mon, 26 Jun 2006 16:40:08 -0400" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/blueseagroup.jpg</guid>
+        </item>
+        <item>
+            <title>Mountingraft</title>
+            <link>slides/blueseamountingraft.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/blueseamountingraft.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/blueseamountingraft.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Sat, 24 Jun 2006 15:59:06 -0400" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/blueseamountingraft.jpg</guid>
+        </item>
+        <item>
+            <title>Nicholas and Skye (took Nico;s bottle)</title>
+            <link>slides/NicholasSkyebottle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NicholasSkyebottle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/NicholasSkyebottle.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Sat, 24 Jun 2006 16:04:54 -0400" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/NicholasSkyebottle.jpg</guid>
+        </item>
+    </channel>
+</rss>

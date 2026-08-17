@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SpiliA</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Spili, Kostas Inn</title>
+            <link>slides/1.Spili%2C%20Kostas%20Inn.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Spili%2C%20Kostas%20Inn.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Spili%2C%20Kostas%20Inn.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/1.Spili%2C%20Kostas%20Inn.jpg</guid>
+        </item>
+        <item>
+            <title>2.Spili, Maria and Kostas</title>
+            <link>slides/2.Spili%2C%20Maria%20and%20Kostas.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Spili%2C%20Maria%20and%20Kostas.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Spili%2C%20Maria%20and%20Kostas.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Spili%2C%20Maria%20and%20Kostas.jpg</guid>
+        </item>
+        <item>
+            <title>3.Spili, Maria and Kostas</title>
+            <link>slides/3.Spili%2C%20Maria%20and%20Kostas.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Spili%2C%20Maria%20and%20Kostas.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Spili%2C%20Maria%20and%20Kostas.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Spili%2C%20Maria%20and%20Kostas.jpg</guid>
+        </item>
+        <item>
+            <title>4.At Marias and Kostas Taverna</title>
+            <link>slides/4.At%20Marias%20and%20Kostas%20Taverna.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.At%20Marias%20and%20Kostas%20Taverna.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.At%20Marias%20and%20Kostas%20Taverna.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.At%20Marias%20and%20Kostas%20Taverna.jpg</guid>
+        </item>
+        <item>
+            <title>5. Spili, Lion Heads Fountain</title>
+            <link>slides/5.%20Spili%2C%20Lion%20Heads%20Fountain.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.%20Spili%2C%20Lion%20Heads%20Fountain.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.%20Spili%2C%20Lion%20Heads%20Fountain.jpg" width="680" height="442"/>
+            <guid isPermaLink="false">slides/5.%20Spili%2C%20Lion%20Heads%20Fountain.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Scotland</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2023 All Smiles</title>
+            <link>slides/2023AllSmilesinScotland.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2023AllSmilesinScotland.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/2023AllSmilesinScotland.png" width="431" height="553"/>
+            <guid isPermaLink="false">slides/2023AllSmilesinScotland.png</guid>
+        </item>
+        <item>
+            <title>2023 All Smiles</title>
+            <link>slides/2024%20AllSmilesinScotland.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024%20AllSmilesinScotland.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/2024%20AllSmilesinScotland.png" width="431" height="553"/>
+            <guid isPermaLink="false">slides/2024%20AllSmilesinScotland.png</guid>
+        </item>
+        <item>
+            <title>Dorothy and Norma 2024</title>
+            <link>slides/DorothyNormaJune2023.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DorothyNormaJune2023.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/DorothyNormaJune2023.png" width="677" height="686"/>
+            <guid isPermaLink="false">slides/DorothyNormaJune2023.png</guid>
+        </item>
+        <item>
+            <title>Ken at Music Group</title>
+            <link>slides/Ken%20at%20Music%20group.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ken%20at%20Music%20group.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Ken%20at%20Music%20group.jpg" width="1067" height="800"/>
+            <guid isPermaLink="false">slides/Ken%20at%20Music%20group.jpg</guid>
+        </item>
+        <item>
+            <title>2024 Ken in new chair at Murdostoun</title>
+            <link>slides/2024-07-06Ken%20in%20new%20chair%20Murdostoun.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-07-06Ken%20in%20new%20chair%20Murdostoun.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-07-06Ken%20in%20new%20chair%20Murdostoun.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/2024-07-06Ken%20in%20new%20chair%20Murdostoun.jpg</guid>
+        </item>
+        <item>
+            <title>July 2024 Ken with walker</title>
+            <link>slides/2024-07-07%20Ken%20with%20walker%20Murdostoun.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-07-07%20Ken%20with%20walker%20Murdostoun.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-07-07%20Ken%20with%20walker%20Murdostoun.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/2024-07-07%20Ken%20with%20walker%20Murdostoun.jpg</guid>
+        </item>
+        <item>
+            <title>Walking party 2023?</title>
+            <link>slides/2023-09WalkingParty.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2023-09WalkingParty.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2023-09WalkingParty.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/2023-09WalkingParty.jpg</guid>
+        </item>
+    </channel>
+</rss>

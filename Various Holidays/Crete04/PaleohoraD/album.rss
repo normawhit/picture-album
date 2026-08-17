@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>PaleohoraD</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Paleohora, Harbour and Castle</title>
+            <link>slides/1.Paleohora%2C%20Harbour%20and%20Castle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Paleohora%2C%20Harbour%20and%20Castle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Paleohora%2C%20Harbour%20and%20Castle.jpg" width="726" height="448"/>
+            <guid isPermaLink="false">slides/1.Paleohora%2C%20Harbour%20and%20Castle.jpg</guid>
+        </item>
+        <item>
+            <title>2.Rough Sea in Harbour</title>
+            <link>slides/2.Rough%20Sea%20in%20Harbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Rough%20Sea%20in%20Harbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Rough%20Sea%20in%20Harbour.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Rough%20Sea%20in%20Harbour.jpg</guid>
+        </item>
+        <item>
+            <title>3.Breaker on Stone Beach</title>
+            <link>slides/3.Breaker%20on%20Stone%20Beach.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Breaker%20on%20Stone%20Beach.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Breaker%20on%20Stone%20Beach.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Breaker%20on%20Stone%20Beach.jpg</guid>
+        </item>
+        <item>
+            <title>4.Breakers</title>
+            <link>slides/4.Breakers.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Breakers.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Breakers.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Breakers.jpg</guid>
+        </item>
+    </channel>
+</rss>

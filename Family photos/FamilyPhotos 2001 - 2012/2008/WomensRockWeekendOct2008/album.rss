@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Womens Rock Weekend</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2008-10-26 06 dscf1216Normacaroline</title>
+            <link>slides/2008-10-26%2006%20dscf1216Normacaroline.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2008-10-26%2006%20dscf1216Normacaroline.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2008-10-26%2006%20dscf1216Normacaroline.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/2008-10-26%2006%20dscf1216Normacaroline.jpg</guid>
+        </item>
+        <item>
+            <title>2008-10-26 07 dscf1217barnoneinpractise</title>
+            <link>slides/2008-10-26%2007%20dscf1217barnoneinpractise.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2008-10-26%2007%20dscf1217barnoneinpractise.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2008-10-26%2007%20dscf1217barnoneinpractise.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/2008-10-26%2007%20dscf1217barnoneinpractise.jpg</guid>
+        </item>
+        <item>
+            <title>Norma on keyboard</title>
+            <link>slides/2008-10-26%2009%20dscf1219Norma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2008-10-26%2009%20dscf1219Norma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2008-10-26%2009%20dscf1219Norma.jpg" width="432" height="768"/>
+            <guid isPermaLink="false">slides/2008-10-26%2009%20dscf1219Norma.jpg</guid>
+        </item>
+        <item>
+            <title>Bar None</title>
+            <link>slides/2008-10-26%2011%20dscf1221barnoneonstage.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2008-10-26%2011%20dscf1221barnoneonstage.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2008-10-26%2011%20dscf1221barnoneonstage.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/2008-10-26%2011%20dscf1221barnoneonstage.jpg</guid>
+        </item>
+        <item>
+            <title>Bar None</title>
+            <link>slides/2008-10-26%2013%20dscf1223barnone.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2008-10-26%2013%20dscf1223barnone.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2008-10-26%2013%20dscf1223barnone.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/2008-10-26%2013%20dscf1223barnone.jpg</guid>
+        </item>
+    </channel>
+</rss>

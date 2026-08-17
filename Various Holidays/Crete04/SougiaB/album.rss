@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SougiaB</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Lissos, looking back at our descent</title>
+            <link>slides/1.Lissos%2C%20looking%20back%20at%20our%20descent.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Lissos%2C%20looking%20back%20at%20our%20descent.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Lissos%2C%20looking%20back%20at%20our%20descent.jpg" width="729" height="437"/>
+            <guid isPermaLink="false">slides/1.Lissos%2C%20looking%20back%20at%20our%20descent.jpg</guid>
+        </item>
+        <item>
+            <title>2.Gorge to Lissos</title>
+            <link>slides/2.Gorge%20to%20Lissos.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Gorge%20to%20Lissos.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Gorge%20to%20Lissos.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Gorge%20to%20Lissos.jpg</guid>
+        </item>
+        <item>
+            <title>3.Gorge to Lissos</title>
+            <link>slides/3.Gorge%20to%20Lissos.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Gorge%20to%20Lissos.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Gorge%20to%20Lissos.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Gorge%20to%20Lissos.jpg</guid>
+        </item>
+        <item>
+            <title>4.Plateau at top of gorge</title>
+            <link>slides/4.Plateau%20at%20top%20of%20gorge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Plateau%20at%20top%20of%20gorge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Plateau%20at%20top%20of%20gorge.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Plateau%20at%20top%20of%20gorge.jpg</guid>
+        </item>
+        <item>
+            <title>5.Lissos, Ancient Church</title>
+            <link>slides/5.Lissos%2C%20Ancient%20Church.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Lissos%2C%20Ancient%20Church.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Lissos%2C%20Ancient%20Church.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Lissos%2C%20Ancient%20Church.jpg</guid>
+        </item>
+        <item>
+            <title>6.Inside ancient Church</title>
+            <link>slides/6.Inside%20ancient%20Church.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Inside%20ancient%20Church.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Inside%20ancient%20Church.jpg" width="320" height="568"/>
+            <guid isPermaLink="false">slides/6.Inside%20ancient%20Church.jpg</guid>
+        </item>
+        <item>
+            <title>7.Gorge to Lissos</title>
+            <link>slides/7.Gorge%20to%20Lissos.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.Gorge%20to%20Lissos.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/7.Gorge%20to%20Lissos.jpg" width="320" height="568"/>
+            <guid isPermaLink="false">slides/7.Gorge%20to%20Lissos.jpg</guid>
+        </item>
+    </channel>
+</rss>

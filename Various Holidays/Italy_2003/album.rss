@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Italy 2003</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Umbria map</title>
+            <link>slides/umbriaMap.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/umbriaMap.png" width="124" height="124"/>
+            <media:content type="image/gif" url="umbriaMap.gif" width="390" height="467"/>
+            <guid isPermaLink="false">umbriaMap.gif</guid>
+        </item>
+        <item>
+            <title>Monterosso</title>
+            <link>slides/41Monterosso.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41Monterosso.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/41Monterosso.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/41Monterosso.jpg</guid>
+        </item>
+        <item>
+            <title>Above Fontenella</title>
+            <link>slides/AboveFontanelle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/AboveFontanelle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/AboveFontanelle.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/AboveFontanelle.jpg</guid>
+        </item>
+        <item>
+            <title>Approaching Vernazza</title>
+            <link>slides/ApproachingVernazza.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ApproachingVernazza.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ApproachingVernazza.jpg" width="450" height="331"/>
+            <guid isPermaLink="false">slides/ApproachingVernazza.jpg</guid>
+        </item>
+        <item>
+            <title>Assissi Piazza del Commune</title>
+            <link>slides/AssissiPiazzaDelCommune.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/AssissiPiazzaDelCommune.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/AssissiPiazzaDelCommune.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/AssissiPiazzaDelCommune.jpg</guid>
+        </item>
+        <item>
+            <title>Basilca San Francesco</title>
+            <link>slides/BasilicadiSanFrancesco.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BasilicadiSanFrancesco.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BasilicadiSanFrancesco.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/BasilicadiSanFrancesco.jpg</guid>
+        </item>
+        <item>
+            <title>Basilia Superiore above entrance</title>
+            <link>slides/BasilicaSuperioreAboveEntrance.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BasilicaSuperioreAboveEntrance.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BasilicaSuperioreAboveEntrance.jpg" width="300" height="548"/>
+            <guid isPermaLink="false">slides/BasilicaSuperioreAboveEntrance.jpg</guid>
+        </item>
+        <item>
+            <title>Basilica Superiore from below</title>
+            <link>slides/BasilicaSuperioreFromBelow.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BasilicaSuperioreFromBelow.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BasilicaSuperioreFromBelow.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/BasilicaSuperioreFromBelow.jpg</guid>
+        </item>
+        <item>
+            <title>Beach Orbitello</title>
+            <link>slides/BeachOrbitello.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BeachOrbitello.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BeachOrbitello.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/BeachOrbitello.jpg</guid>
+        </item>
+        <item>
+            <title>Beach Orbitello</title>
+            <link>slides/BeachOrbitelloLong.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BeachOrbitelloLong.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BeachOrbitelloLong.jpg" width="450" height="187"/>
+            <guid isPermaLink="false">slides/BeachOrbitelloLong.jpg</guid>
+        </item>
+        <item>
+            <title>Cala Violina</title>
+            <link>slides/CalaViolina.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CalaViolina.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CalaViolina.jpg" width="1063" height="797"/>
+            <jalbum:exif originalDate="Wed, 23 Apr 2003 18:27:40 -0400" cameraMake="Canon" cameraModel="Canon PowerShot S10"/>
+            <guid isPermaLink="false">slides/CalaViolina.jpg</guid>
+        </item>
+        <item>
+            <title>Capalbio, deserted beach</title>
+            <link>slides/CapalbioDesertedBeach.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CapalbioDesertedBeach.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CapalbioDesertedBeach.jpg" width="450" height="202"/>
+            <guid isPermaLink="false">slides/CapalbioDesertedBeach.jpg</guid>
+        </item>
+        <item>
+            <title>CXastello di Campello</title>
+            <link>slides/CastelloDiCampello.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CastelloDiCampello.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CastelloDiCampello.jpg" width="450" height="282"/>
+            <guid isPermaLink="false">slides/CastelloDiCampello.jpg</guid>
+        </item>
+        <item>
+            <title>Castle Rocca Maggiore</title>
+            <link>slides/CastleRoccaMaggiore.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CastleRoccaMaggiore.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CastleRoccaMaggiore.jpg" width="450" height="246"/>
+            <guid isPermaLink="false">slides/CastleRoccaMaggiore.jpg</guid>
+        </item>
+        <item>
+            <title>Chiarone Scalo - waves</title>
+            <link>slides/ChiaroneScaloWaves.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ChiaroneScaloWaves.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ChiaroneScaloWaves.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/ChiaroneScaloWaves.jpg</guid>
+        </item>
+        <item>
+            <title>cinque Terra map</title>
+            <link>slides/CinqueTerre.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CinqueTerre.png" width="124" height="124"/>
+            <media:content type="image/gif" url="CinqueTerre.gif" width="507" height="374"/>
+            <guid isPermaLink="false">CinqueTerre.gif</guid>
+        </item>
+        <item>
+            <title>Cloisters town</title>
+            <link>slides/CloistersTown.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CloistersTown.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CloistersTown.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/CloistersTown.jpg</guid>
+        </item>
+        <item>
+            <title>Coastal pines, Castiglione</title>
+            <link>slides/CoastalPinesCastiglione.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CoastalPinesCastiglione.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CoastalPinesCastiglione.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/CoastalPinesCastiglione.jpg</guid>
+        </item>
+        <item>
+            <title>Construction zone</title>
+            <link>slides/ConstructionZone.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ConstructionZone.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ConstructionZone.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/ConstructionZone.jpg</guid>
+        </item>
+        <item>
+            <title>Consul&apos;s Palace</title>
+            <link>slides/consulsPalace.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/consulsPalace.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/consulsPalace.jpg" width="256" height="255"/>
+            <guid isPermaLink="false">slides/consulsPalace.jpg</guid>
+        </item>
+        <item>
+            <title>ducal Place</title>
+            <link>slides/ducalPalace.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ducalPalace.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ducalPalace.jpg" width="300" height="446"/>
+            <guid isPermaLink="false">slides/ducalPalace.jpg</guid>
+        </item>
+        <item>
+            <title>Duomo San Ruffino</title>
+            <link>slides/DuomoSanRuffino.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DuomoSanRuffino.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/DuomoSanRuffino.jpg" width="450" height="246"/>
+            <guid isPermaLink="false">slides/DuomoSanRuffino.jpg</guid>
+        </item>
+        <item>
+            <title>Fontanelle lunch</title>
+            <link>slides/FontanelleLunch.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FontanelleLunch.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/FontanelleLunch.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/FontanelleLunch.jpg</guid>
+        </item>
+        <item>
+            <title>Fontanelle Site</title>
+            <link>slides/FontanelleSite.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FontanelleSite.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/FontanelleSite.jpg" width="310" height="233"/>
+            <guid isPermaLink="false">slides/FontanelleSite.jpg</guid>
+        </item>
+        <item>
+            <title>Fonti del Clitunno</title>
+            <link>slides/FontiDelClitunnoA.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FontiDelClitunnoA.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/FontiDelClitunnoA.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/FontiDelClitunnoA.jpg</guid>
+        </item>
+        <item>
+            <title>Fonti del Clitunno</title>
+            <link>slides/FontiDelClitunnoB.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FontiDelClitunnoB.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/FontiDelClitunnoB.jpg" width="450" height="246"/>
+            <guid isPermaLink="false">slides/FontiDelClitunnoB.jpg</guid>
+        </item>
+        <item>
+            <title>From peak above Caprabia</title>
+            <link>slides/FromPeakAboveCaprarbia.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FromPeakAboveCaprarbia.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/FromPeakAboveCaprarbia.jpg" width="450" height="246"/>
+            <guid isPermaLink="false">slides/FromPeakAboveCaprarbia.jpg</guid>
+        </item>
+        <item>
+            <title>Capalbio area</title>
+            <link>slides/GBArea.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/GBArea.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/GBArea.jpg" width="459" height="403"/>
+            <guid isPermaLink="false">slides/GBArea.jpg</guid>
+        </item>
+        <item>
+            <title>Breakfast spread</title>
+            <link>slides/GBBreakfastSpread.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/GBBreakfastSpread.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/GBBreakfastSpread.jpg" width="400" height="272"/>
+            <guid isPermaLink="false">slides/GBBreakfastSpread.jpg</guid>
+        </item>
+        <item>
+            <title>Giacco Bosco Main building</title>
+            <link>slides/GiaccoBoscoMain.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/GiaccoBoscoMain.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/GiaccoBoscoMain.jpg" width="450" height="330"/>
+            <guid isPermaLink="false">slides/GiaccoBoscoMain.jpg</guid>
+        </item>
+        <item>
+            <title>Our stable</title>
+            <link>slides/GiaccoBoscoOurStable.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/GiaccoBoscoOurStable.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/GiaccoBoscoOurStable.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/GiaccoBoscoOurStable.jpg</guid>
+        </item>
+        <item>
+            <title>Giotto</title>
+            <link>slides/Giotto.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Giotto.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Giotto.jpg" width="500" height="320"/>
+            <guid isPermaLink="false">slides/Giotto.jpg</guid>
+        </item>
+        <item>
+            <title>Grosseto map</title>
+            <link>slides/grosseto.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/grosseto.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/grosseto.jpg" width="500" height="534"/>
+            <guid isPermaLink="false">slides/grosseto.jpg</guid>
+        </item>
+        <item>
+            <title>Gubbio</title>
+            <link>slides/gubbio.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gubbio.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/gubbio.jpg" width="250" height="200"/>
+            <guid isPermaLink="false">slides/gubbio.jpg</guid>
+        </item>
+        <item>
+            <title>Italy Route</title>
+            <link>slides/italyRoute.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/italyRoute.png" width="124" height="124"/>
+            <media:content type="image/gif" url="italyRoute.gif" width="355" height="495"/>
+            <guid isPermaLink="false">italyRoute.gif</guid>
+        </item>
+        <item>
+            <title>La Caprabia</title>
+            <link>slides/LaCaprarbia.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LaCaprarbia.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/LaCaprarbia.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/LaCaprarbia.jpg</guid>
+        </item>
+        <item>
+            <title>Liguria map</title>
+            <link>slides/Liguria.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Liguria.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Liguria.png" width="220" height="257"/>
+            <guid isPermaLink="false">slides/Liguria.png</guid>
+        </item>
+        <item>
+            <title>Locando ground</title>
+            <link>slides/LocandaGrounds.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LocandaGrounds.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/LocandaGrounds.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/LocandaGrounds.jpg</guid>
+        </item>
+        <item>
+            <title>sLoc Del Golossi Well</title>
+            <link>slides/LocDeiGolossiWell.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LocDeiGolossiWell.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/LocDeiGolossiWell.jpg" width="600" height="338"/>
+            <guid isPermaLink="false">slides/LocDeiGolossiWell.jpg</guid>
+        </item>
+        <item>
+            <title>Many headlands Vernazza</title>
+            <link>slides/ManyHeadlandsVernazza.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ManyHeadlandsVernazza.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ManyHeadlandsVernazza.jpg" width="450" height="300"/>
+            <guid isPermaLink="false">slides/ManyHeadlandsVernazza.jpg</guid>
+        </item>
+        <item>
+            <title>Maremma</title>
+            <link>slides/maremma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/maremma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/maremma.jpg" width="450" height="246"/>
+            <guid isPermaLink="false">slides/maremma.jpg</guid>
+        </item>
+        <item>
+            <title>Monte Falco, Main Square</title>
+            <link>slides/MonteFalcoMainSquare.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MonteFalcoMainSquare.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MonteFalcoMainSquare.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/MonteFalcoMainSquare.jpg</guid>
+        </item>
+        <item>
+            <title>Monte Falco, street doenhill</title>
+            <link>slides/MonteFalcoStreetDown.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MonteFalcoStreetDown.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MonteFalcoStreetDown.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/MonteFalcoStreetDown.jpg</guid>
+        </item>
+        <item>
+            <title>Monterosso</title>
+            <link>slides/Monterosso.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Monterosso.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Monterosso.jpg" width="500" height="293"/>
+            <guid isPermaLink="false">slides/Monterosso.jpg</guid>
+        </item>
+        <item>
+            <title>Nativity scene</title>
+            <link>slides/NativityScene.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NativityScene.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/NativityScene.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/NativityScene.jpg</guid>
+        </item>
+        <item>
+            <title>Perugia, Fountain Palace</title>
+            <link>slides/PerugiaFountainPalace.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PerugiaFountainPalace.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PerugiaFountainPalace.jpg" width="350" height="640"/>
+            <guid isPermaLink="false">slides/PerugiaFountainPalace.jpg</guid>
+        </item>
+        <item>
+            <title>Perugia, Galleria Nationale</title>
+            <link>slides/PerugiaGalleriaNationale.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PerugiaGalleriaNationale.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PerugiaGalleriaNationale.jpg" width="350" height="637"/>
+            <guid isPermaLink="false">slides/PerugiaGalleriaNationale.jpg</guid>
+        </item>
+        <item>
+            <title>Piazza Inferiore</title>
+            <link>slides/PiazzaInferiore.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PiazzaInferiore.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PiazzaInferiore.jpg" width="640" height="350"/>
+            <guid isPermaLink="false">slides/PiazzaInferiore.jpg</guid>
+        </item>
+        <item>
+            <title>Pines at Orbitello</title>
+            <link>slides/PinesOrbitello.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PinesOrbitello.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PinesOrbitello.jpg" width="300" height="548"/>
+            <guid isPermaLink="false">slides/PinesOrbitello.jpg</guid>
+        </item>
+        <item>
+            <title>Pitgliano</title>
+            <link>slides/PitiglianoA.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PitiglianoA.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PitiglianoA.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/PitiglianoA.jpg</guid>
+        </item>
+        <item>
+            <title>Pitgliano</title>
+            <link>slides/PitiglianoB.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PitiglianoB.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PitiglianoB.jpg" width="400" height="218"/>
+            <guid isPermaLink="false">slides/PitiglianoB.jpg</guid>
+        </item>
+        <item>
+            <title>Rosemary Bush</title>
+            <link>slides/RosemaryBush.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/RosemaryBush.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/RosemaryBush.jpg" width="400" height="379"/>
+            <guid isPermaLink="false">slides/RosemaryBush.jpg</guid>
+        </item>
+        <item>
+            <title>Stone pine cones</title>
+            <link>slides/StonePinecones.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/StonePinecones.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/StonePinecones.jpg" width="400" height="281"/>
+            <guid isPermaLink="false">slides/StonePinecones.jpg</guid>
+        </item>
+        <item>
+            <title>Tuscany map</title>
+            <link>slides/tuscany.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/tuscany.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/tuscany.jpg" width="90" height="105"/>
+            <guid isPermaLink="false">slides/tuscany.jpg</guid>
+        </item>
+        <item>
+            <title>Vernazza</title>
+            <link>slides/Vernazza.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Vernazza.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Vernazza.jpg" width="550" height="308"/>
+            <guid isPermaLink="false">slides/Vernazza.jpg</guid>
+        </item>
+        <item>
+            <title>Via del AMore bridge</title>
+            <link>slides/ViaDelAmoreBridge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ViaDelAmoreBridge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ViaDelAmoreBridge.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/ViaDelAmoreBridge.jpg</guid>
+        </item>
+        <item>
+            <title>Via del AMore  farm</title>
+            <link>slides/ViaDelAmoreFarm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ViaDelAmoreFarm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ViaDelAmoreFarm.jpg" width="500" height="273"/>
+            <guid isPermaLink="false">slides/ViaDelAmoreFarm.jpg</guid>
+        </item>
+        <item>
+            <title>Via San Francesco</title>
+            <link>slides/ViaSanFrancesco.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ViaSanFrancesco.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/ViaSanFrancesco.jpg" width="269" height="408"/>
+            <guid isPermaLink="false">slides/ViaSanFrancesco.jpg</guid>
+        </item>
+    </channel>
+</rss>

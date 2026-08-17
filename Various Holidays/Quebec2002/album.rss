@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Quebec 2002</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Sea at Cap des Rosiers</title>
+            <link>slides/41SeaAtCapDesRosiers.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41SeaAtCapDesRosiers.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/41SeaAtCapDesRosiers.jpg" width="550" height="308"/>
+            <guid isPermaLink="false">slides/41SeaAtCapDesRosiers.jpg</guid>
+        </item>
+        <item>
+            <title>Stormy sea</title>
+            <link>slides/42StormySea.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/42StormySea.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/42StormySea.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/42StormySea.jpg</guid>
+        </item>
+        <item>
+            <title>Tallest lighthouse</title>
+            <link>slides/43TallestLighthouse.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/43TallestLighthouse.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/43TallestLighthouse.jpg" width="350" height="216"/>
+            <guid isPermaLink="false">slides/43TallestLighthouse.jpg</guid>
+        </item>
+        <item>
+            <title>Cap des Rosiers</title>
+            <link>slides/44CapDesRosiers.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/44CapDesRosiers.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/44CapDesRosiers.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/44CapDesRosiers.jpg</guid>
+        </item>
+        <item>
+            <title>Cap bon ami</title>
+            <link>slides/45CapBonAmi.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/45CapBonAmi.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/45CapBonAmi.jpg" width="327" height="214"/>
+            <guid isPermaLink="false">slides/45CapBonAmi.jpg</guid>
+        </item>
+        <item>
+            <title>Chalet cap cabines</title>
+            <link>slides/45ChaletsCapCabines.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/45ChaletsCapCabines.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/45ChaletsCapCabines.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/45ChaletsCapCabines.jpg</guid>
+        </item>
+        <item>
+            <title>Cap des Rosiers bay</title>
+            <link>slides/46CapDesRosiersBay.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/46CapDesRosiersBay.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/46CapDesRosiersBay.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/46CapDesRosiersBay.jpg</guid>
+        </item>
+        <item>
+            <title>Perce Rock from dock</title>
+            <link>slides/47PerceRockFromDock.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/47PerceRockFromDock.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/47PerceRockFromDock.jpg" width="400" height="273"/>
+            <guid isPermaLink="false">slides/47PerceRockFromDock.jpg</guid>
+        </item>
+        <item>
+            <title>Rock with hole</title>
+            <link>slides/48RockWithHole.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/48RockWithHole.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/48RockWithHole.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/48RockWithHole.jpg</guid>
+        </item>
+        <item>
+            <title>Through the hole</title>
+            <link>slides/49ThroughTheHole.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/49ThroughTheHole.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/49ThroughTheHole.jpg" width="400" height="191"/>
+            <guid isPermaLink="false">slides/49ThroughTheHole.jpg</guid>
+        </item>
+        <item>
+            <title>Lower Quebec</title>
+            <link>slides/00LowerQuebec.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/00LowerQuebec.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/00LowerQuebec.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/00LowerQuebec.jpg</guid>
+        </item>
+        <item>
+            <title>Team</title>
+            <link>slides/00Team.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/00Team.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/00Team.jpg" width="211" height="433"/>
+            <guid isPermaLink="false">slides/00Team.jpg</guid>
+        </item>
+        <item>
+            <title>Quebec Parlaiment</title>
+            <link>slides/01QuebecParliament.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01QuebecParliament.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01QuebecParliament.jpg" width="345" height="450"/>
+            <guid isPermaLink="false">slides/01QuebecParliament.jpg</guid>
+        </item>
+        <item>
+            <title>OPposite shore</title>
+            <link>slides/02OtherShore.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02OtherShore.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02OtherShore.jpg" width="550" height="308"/>
+            <guid isPermaLink="false">slides/02OtherShore.jpg</guid>
+        </item>
+        <item>
+            <title>Cap Diamant</title>
+            <link>slides/03%20CapDiamant.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03%20CapDiamant.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03%20CapDiamant.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/03%20CapDiamant.jpg</guid>
+        </item>
+        <item>
+            <title>Quebec gaspe map</title>
+            <link>slides/03QuebecGaspeMap.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03QuebecGaspeMap.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03QuebecGaspeMap.jpg" width="400" height="253"/>
+            <guid isPermaLink="false">slides/03QuebecGaspeMap.jpg</guid>
+        </item>
+        <item>
+            <title>Quebec City from ferry</title>
+            <link>slides/04QuebecFromFerry.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04QuebecFromFerry.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04QuebecFromFerry.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/04QuebecFromFerry.jpg</guid>
+        </item>
+        <item>
+            <title>Montmorency Falls from bottom</title>
+            <link>slides/05MontmorencyFromBottom.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05MontmorencyFromBottom.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05MontmorencyFromBottom.jpg" width="254" height="450"/>
+            <guid isPermaLink="false">slides/05MontmorencyFromBottom.jpg</guid>
+        </item>
+        <item>
+            <title>View from falls</title>
+            <link>slides/06FromMontmorencyFalls.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06FromMontmorencyFalls.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06FromMontmorencyFalls.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/06FromMontmorencyFalls.jpg</guid>
+        </item>
+        <item>
+            <title>From the middle lookout</title>
+            <link>slides/06MontmorencyFromMiddle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06MontmorencyFromMiddle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06MontmorencyFromMiddle.jpg" width="247" height="450"/>
+            <guid isPermaLink="false">slides/06MontmorencyFromMiddle.jpg</guid>
+        </item>
+        <item>
+            <title>Montmorency postcard</title>
+            <link>slides/07MontmorencyPostcard.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07MontmorencyPostcard.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/07MontmorencyPostcard.jpg" width="550" height="377"/>
+            <guid isPermaLink="false">slides/07MontmorencyPostcard.jpg</guid>
+        </item>
+        <item>
+            <title>Vaie St Paul church</title>
+            <link>slides/08BaieStPaulChurch.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08BaieStPaulChurch.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/08BaieStPaulChurch.jpg" width="640" height="387"/>
+            <guid isPermaLink="false">slides/08BaieStPaulChurch.jpg</guid>
+        </item>
+        <item>
+            <title>Baie St Paul, mansion roofs</title>
+            <link>slides/09BaieStPaulMansionRoofs.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/09BaieStPaulMansionRoofs.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/09BaieStPaulMansionRoofs.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/09BaieStPaulMansionRoofs.jpg</guid>
+        </item>
+        <item>
+            <title>Bay St Paul coast</title>
+            <link>slides/10BaieStPaulCoast.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10BaieStPaulCoast.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/10BaieStPaulCoast.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/10BaieStPaulCoast.jpg</guid>
+        </item>
+        <item>
+            <title>Beach</title>
+            <link>slides/11BaieStPaulBeach.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11BaieStPaulBeach.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/11BaieStPaulBeach.jpg" width="400" height="226"/>
+            <guid isPermaLink="false">slides/11BaieStPaulBeach.jpg</guid>
+        </item>
+        <item>
+            <title>St Joseph de la rIVE</title>
+            <link>slides/12StJosephDeLaRive.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12StJosephDeLaRive.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/12StJosephDeLaRive.jpg" width="400" height="226"/>
+            <guid isPermaLink="false">slides/12StJosephDeLaRive.jpg</guid>
+        </item>
+        <item>
+            <title>Isle aux Coudres</title>
+            <link>slides/13IsleAuxCoudres.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13IsleAuxCoudres.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/13IsleAuxCoudres.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/13IsleAuxCoudres.jpg</guid>
+        </item>
+        <item>
+            <title>Gite du Voyageur</title>
+            <link>slides/14GiteDuVoyageur.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14GiteDuVoyageur.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/14GiteDuVoyageur.jpg" width="450" height="250"/>
+            <guid isPermaLink="false">slides/14GiteDuVoyageur.jpg</guid>
+        </item>
+        <item>
+            <title>Tadoussac from ferry</title>
+            <link>slides/15TadoussacFromFerry.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15TadoussacFromFerry.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/15TadoussacFromFerry.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/15TadoussacFromFerry.jpg</guid>
+        </item>
+        <item>
+            <title>Tadoussac from ferryHotel Tadoussac</title>
+            <link>slides/15TadoussacFromFerryCropped.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15TadoussacFromFerryCropped.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/15TadoussacFromFerryCropped.jpg" width="450" height="163"/>
+            <guid isPermaLink="false">slides/15TadoussacFromFerryCropped.jpg</guid>
+        </item>
+        <item>
+            <title>Hotel Tadoussac</title>
+            <link>slides/16HotelTadoussac.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16HotelTadoussac.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/16HotelTadoussac.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/16HotelTadoussac.jpg</guid>
+        </item>
+        <item>
+            <title>Tadoussec Harbour</title>
+            <link>slides/17TadoussacHarbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17TadoussacHarbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/17TadoussacHarbour.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/17TadoussacHarbour.jpg</guid>
+        </item>
+        <item>
+            <title>Tadoussac belugas</title>
+            <link>slides/18TadoussacBelugas.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18TadoussacBelugas.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/18TadoussacBelugas.jpg" width="550" height="393"/>
+            <guid isPermaLink="false">slides/18TadoussacBelugas.jpg</guid>
+        </item>
+        <item>
+            <title>Tadoussac whale</title>
+            <link>slides/19TadoussacWhale.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19TadoussacWhale.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/19TadoussacWhale.jpg" width="400" height="286"/>
+            <guid isPermaLink="false">slides/19TadoussacWhale.jpg</guid>
+        </item>
+        <item>
+            <title>Trois Pistoles</title>
+            <link>slides/20TroisPistoles.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20TroisPistoles.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20TroisPistoles.jpg" width="700" height="281"/>
+            <guid isPermaLink="false">slides/20TroisPistoles.jpg</guid>
+        </item>
+        <item>
+            <title>Trois Pistoles</title>
+            <link>slides/20TroisPistolesCropped.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20TroisPistolesCropped.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20TroisPistolesCropped.jpg" width="600" height="197"/>
+            <guid isPermaLink="false">slides/20TroisPistolesCropped.jpg</guid>
+        </item>
+        <item>
+            <title>Prince Shal Lighthouse</title>
+            <link>slides/21PrinceShoalLighthouse.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21PrinceShoalLighthouse.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/21PrinceShoalLighthouse.jpg" width="352" height="354"/>
+            <guid isPermaLink="false">slides/21PrinceShoalLighthouse.jpg</guid>
+        </item>
+        <item>
+            <title>Sand dunes</title>
+            <link>slides/21SandDunes.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21SandDunes.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/21SandDunes.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/21SandDunes.jpg</guid>
+        </item>
+        <item>
+            <title>Tadoussac beach walk</title>
+            <link>slides/21TadoussacBeachWalk.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21TadoussacBeachWalk.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/21TadoussacBeachWalk.jpg" width="550" height="317"/>
+            <guid isPermaLink="false">slides/21TadoussacBeachWalk.jpg</guid>
+        </item>
+        <item>
+            <title>Cliff walk</title>
+            <link>slides/22CliffWalk.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22CliffWalk.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/22CliffWalk.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/22CliffWalk.jpg</guid>
+        </item>
+        <item>
+            <title>Hill walk</title>
+            <link>slides/23HillWalk.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/23HillWalk.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/23HillWalk.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/23HillWalk.jpg</guid>
+        </item>
+        <item>
+            <title>Hill Walk</title>
+            <link>slides/23HillWalkCropped.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/23HillWalkCropped.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/23HillWalkCropped.jpg" width="400" height="194"/>
+            <guid isPermaLink="false">slides/23HillWalkCropped.jpg</guid>
+        </item>
+        <item>
+            <title>Ferry from hilltop</title>
+            <link>slides/24FerryFromHilltop.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/24FerryFromHilltop.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/24FerryFromHilltop.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/24FerryFromHilltop.jpg</guid>
+        </item>
+        <item>
+            <title>Ferry from hilltop</title>
+            <link>slides/24FerryFromHilltopCropped.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/24FerryFromHilltopCropped.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/24FerryFromHilltopCropped.jpg" width="400" height="189"/>
+            <guid isPermaLink="false">slides/24FerryFromHilltopCropped.jpg</guid>
+        </item>
+        <item>
+            <title>Keith above fjord</title>
+            <link>slides/25KeithAboveFjord.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25KeithAboveFjord.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/25KeithAboveFjord.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/25KeithAboveFjord.jpg</guid>
+        </item>
+        <item>
+            <title>Keith above fjord</title>
+            <link>slides/25KeithAboveFjordCropped.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25KeithAboveFjordCropped.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/25KeithAboveFjordCropped.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/25KeithAboveFjordCropped.jpg</guid>
+        </item>
+        <item>
+            <title>Alse de la Barque</title>
+            <link>slides/26AnseDeLaBarque.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/26AnseDeLaBarque.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/26AnseDeLaBarque.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/26AnseDeLaBarque.jpg</guid>
+        </item>
+        <item>
+            <title>Ferry to Ste Catherine</title>
+            <link>slides/27FerryToSteCatherine.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/27FerryToSteCatherine.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/27FerryToSteCatherine.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/27FerryToSteCatherine.jpg</guid>
+        </item>
+        <item>
+            <title>Auberge de la Paix</title>
+            <link>slides/28AubergeDeLaPaix.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28AubergeDeLaPaix.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/28AubergeDeLaPaix.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/28AubergeDeLaPaix.jpg</guid>
+        </item>
+        <item>
+            <title>Ferry to Forrestville</title>
+            <link>slides/29ferryForrestville.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29ferryForrestville.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/29ferryForrestville.jpg" width="300" height="172"/>
+            <guid isPermaLink="false">slides/29ferryForrestville.jpg</guid>
+        </item>
+        <item>
+            <title>Backpacker at Forrestville ferry</title>
+            <link>slides/29TheBackpackerAtForrestvilleFerry.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29TheBackpackerAtForrestvilleFerry.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/29TheBackpackerAtForrestvilleFerry.jpg" width="400" height="216"/>
+            <guid isPermaLink="false">slides/29TheBackpackerAtForrestvilleFerry.jpg</guid>
+        </item>
+        <item>
+            <title>Forrestville ctaamaran</title>
+            <link>slides/30ForrestvilleCatamaran.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/30ForrestvilleCatamaran.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/30ForrestvilleCatamaran.jpg" width="250" height="239"/>
+            <guid isPermaLink="false">slides/30ForrestvilleCatamaran.jpg</guid>
+        </item>
+        <item>
+            <title>Ste Flave beach</title>
+            <link>slides/30SteFlavieBeach.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/30SteFlavieBeach.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/30SteFlavieBeach.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/30SteFlavieBeach.jpg</guid>
+        </item>
+        <item>
+            <title>Folk on rafts</title>
+            <link>slides/31FolkOnRafts.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/31FolkOnRafts.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/31FolkOnRafts.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/31FolkOnRafts.jpg</guid>
+        </item>
+        <item>
+            <title>The Gathering</title>
+            <link>slides/32TheGathering.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/32TheGathering.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/32TheGathering.jpg" width="640" height="361"/>
+            <guid isPermaLink="false">slides/32TheGathering.jpg</guid>
+        </item>
+        <item>
+            <title>From studio</title>
+            <link>slides/33FromStudio.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/33FromStudio.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/33FromStudio.jpg" width="600" height="346"/>
+            <guid isPermaLink="false">slides/33FromStudio.jpg</guid>
+        </item>
+        <item>
+            <title>Jardins de Metis</title>
+            <link>slides/34JardinsDeMetis.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/34JardinsDeMetis.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/34JardinsDeMetis.jpg" width="600" height="339"/>
+            <guid isPermaLink="false">slides/34JardinsDeMetis.jpg</guid>
+        </item>
+        <item>
+            <title>Bus station, Les Boules</title>
+            <link>slides/35BusStationLesBoules.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/35BusStationLesBoules.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/35BusStationLesBoules.jpg" width="400" height="226"/>
+            <guid isPermaLink="false">slides/35BusStationLesBoules.jpg</guid>
+        </item>
+        <item>
+            <title>Cap Chat wind farm</title>
+            <link>slides/35CapChat-windfarm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/35CapChat-windfarm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/35CapChat-windfarm.jpg" width="300" height="179"/>
+            <guid isPermaLink="false">slides/35CapChat-windfarm.jpg</guid>
+        </item>
+        <item>
+            <title>Lac aux Americains</title>
+            <link>slides/36LacAuxAmericains.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/36LacAuxAmericains.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/36LacAuxAmericains.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/36LacAuxAmericains.jpg</guid>
+        </item>
+        <item>
+            <title>From Mt Xalibu</title>
+            <link>slides/37FromMtXalibu.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/37FromMtXalibu.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/37FromMtXalibu.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/37FromMtXalibu.jpg</guid>
+        </item>
+        <item>
+            <title>Our little car</title>
+            <link>slides/38OurLittleCar.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/38OurLittleCar.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/38OurLittleCar.jpg" width="400" height="226"/>
+            <guid isPermaLink="false">slides/38OurLittleCar.jpg</guid>
+        </item>
+        <item>
+            <title>Beach at Ste Annes des Monts</title>
+            <link>slides/39BeachSteAnneDesMonts.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/39BeachSteAnneDesMonts.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/39BeachSteAnneDesMonts.jpg" width="350" height="184"/>
+            <guid isPermaLink="false">slides/39BeachSteAnneDesMonts.jpg</guid>
+        </item>
+        <item>
+            <title>Gaspe map</title>
+            <link>slides/40GaspesieMap.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/40GaspesieMap.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/40GaspesieMap.jpg" width="287" height="179"/>
+            <guid isPermaLink="false">slides/40GaspesieMap.jpg</guid>
+        </item>
+        <item>
+            <title>Hotel Rorqual</title>
+            <link>slides/40HotelRorqual.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/40HotelRorqual.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/40HotelRorqual.jpg" width="862" height="584"/>
+            <guid isPermaLink="false">slides/40HotelRorqual.jpg</guid>
+        </item>
+        <item>
+            <title>Birds on cliff</title>
+            <link>slides/50BirdsOnCliff.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/50BirdsOnCliff.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/50BirdsOnCliff.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/50BirdsOnCliff.jpg</guid>
+        </item>
+        <item>
+            <title>Gannet</title>
+            <link>slides/51Gannet.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/51Gannet.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/51Gannet.jpg" width="550" height="375"/>
+            <guid isPermaLink="false">slides/51Gannet.jpg</guid>
+        </item>
+        <item>
+            <title>High density housing</title>
+            <link>slides/51HighDensityHousing.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/51HighDensityHousing.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/51HighDensityHousing.jpg" width="550" height="310"/>
+            <guid isPermaLink="false">slides/51HighDensityHousing.jpg</guid>
+        </item>
+        <item>
+            <title>Loving couple</title>
+            <link>slides/52LovingCouple.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/52LovingCouple.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/52LovingCouple.jpg" width="550" height="311"/>
+            <guid isPermaLink="false">slides/52LovingCouple.jpg</guid>
+        </item>
+        <item>
+            <title>Baies des Marigots</title>
+            <link>slides/53BaieDesMarigots.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/53BaieDesMarigots.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/53BaieDesMarigots.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/53BaieDesMarigots.jpg</guid>
+        </item>
+        <item>
+            <title>Chalet le Repos</title>
+            <link>slides/54ChaletsLeRepos.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/54ChaletsLeRepos.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/54ChaletsLeRepos.jpg" width="450" height="254"/>
+            <guid isPermaLink="false">slides/54ChaletsLeRepos.jpg</guid>
+        </item>
+        <item>
+            <title>Chalet complex from Cap Barre</title>
+            <link>slides/55ChaletComplexFromCapBarre.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/55ChaletComplexFromCapBarre.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/55ChaletComplexFromCapBarre.jpg" width="550" height="310"/>
+            <guid isPermaLink="false">slides/55ChaletComplexFromCapBarre.jpg</guid>
+        </item>
+        <item>
+            <title>Three Sisters</title>
+            <link>slides/55ThreeSisters.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/55ThreeSisters.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/55ThreeSisters.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/55ThreeSisters.jpg</guid>
+        </item>
+        <item>
+            <title>Rock from Cap Barre</title>
+            <link>slides/56RockFomCapBarre.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/56RockFomCapBarre.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/56RockFomCapBarre.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/56RockFomCapBarre.jpg</guid>
+        </item>
+        <item>
+            <title>Dome car</title>
+            <link>slides/58DomeCar.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/58DomeCar.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/58DomeCar.jpg" width="550" height="310"/>
+            <guid isPermaLink="false">slides/58DomeCar.jpg</guid>
+        </item>
+        <item>
+            <title>Cap aux Pierres</title>
+            <link>slides/CapAuxPierres.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CapAuxPierres.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CapAuxPierres.jpg" width="256" height="256"/>
+            <guid isPermaLink="false">slides/CapAuxPierres.jpg</guid>
+        </item>
+        <item>
+            <title>Isle aux Coudres</title>
+            <link>slides/IsleAuxCoudres.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IsleAuxCoudres.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IsleAuxCoudres.jpg" width="400" height="264"/>
+            <guid isPermaLink="false">slides/IsleAuxCoudres.jpg</guid>
+        </item>
+    </channel>
+</rss>

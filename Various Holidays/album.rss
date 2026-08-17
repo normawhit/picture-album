@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Various Holidays</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2002%20CiqueTerra%20withExtras%20from%20later%20year/album.rss" title="Cinque Terra 2002 (extras from later year)" thumbnail="2002%20CiqueTerra%20withExtras%20from%20later%20year/thumbs/00PortoVenereHotelBelvedereBalcony2002.09.15.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="BangaloreMarch2006/album.rss" title="Bamgalore March 2006" thumbnail="BangaloreMarch2006/thumbs/2006-03-18%2003%20dscf0304.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="CinqueTerra2002/album.rss" title="Cinque Terra 2002" thumbnail="CinqueTerra2002/thumbs/00PortoVenereHotelBelvedereBalcony2002.09.15.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Crete04/album.rss" title="Crete 2004" thumbnail="Crete04/thumbs/01_29Chavania.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="EastGermany/album.rss" title="East Germany" thumbnail="EastGermany/thumbs/Barge.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="England_03/album.rss" title="England 2003" thumbnail="England_03/thumbs/01ManorInn.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Italy_2003/album.rss" title="Italy 2003" thumbnail="Italy_2003/thumbs/umbriaMap.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Quebec2002/album.rss" title="Quebec 2002" thumbnail="Quebec2002/thumbs/41SeaAtCapDesRosiers.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

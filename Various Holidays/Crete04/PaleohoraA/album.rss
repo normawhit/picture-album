@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>PaleohoraA</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>0.paleohora</title>
+            <link>slides/0.paleohora.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/0.paleohora.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/0.paleohora.jpg" width="500" height="276"/>
+            <guid isPermaLink="false">slides/0.paleohora.jpg</guid>
+        </item>
+        <item>
+            <title>1.Paleohora from Castle</title>
+            <link>slides/1.Paleohora%20from%20Castle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Paleohora%20from%20Castle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Paleohora%20from%20Castle.jpg" width="658" height="446"/>
+            <guid isPermaLink="false">slides/1.Paleohora%20from%20Castle.jpg</guid>
+        </item>
+        <item>
+            <title>2.Incoming ferry at Paleohora</title>
+            <link>slides/2.Incoming%20ferry%20at%20Paleohora.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Incoming%20ferry%20at%20Paleohora.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Incoming%20ferry%20at%20Paleohora.jpg" width="600" height="322"/>
+            <guid isPermaLink="false">slides/2.Incoming%20ferry%20at%20Paleohora.jpg</guid>
+        </item>
+        <item>
+            <title>3.Stone beach and castle</title>
+            <link>slides/3.Stone%20beach%20and%20castle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Stone%20beach%20and%20castle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Stone%20beach%20and%20castle.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Stone%20beach%20and%20castle.jpg</guid>
+        </item>
+        <item>
+            <title>4.Our hotel in Paleohora</title>
+            <link>slides/4.Our%20hotel%20in%20Paleohora.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Our%20hotel%20in%20Paleohora.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Our%20hotel%20in%20Paleohora.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Our%20hotel%20in%20Paleohora.jpg</guid>
+        </item>
+        <item>
+            <title>5.Paleohora from Hotel roof</title>
+            <link>slides/5.Paleohora%20from%20Hotel%20roof.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Paleohora%20from%20Hotel%20roof.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Paleohora%20from%20Hotel%20roof.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Paleohora%20from%20Hotel%20roof.jpg</guid>
+        </item>
+        <item>
+            <title>6.Keith on stone beach, castle behind</title>
+            <link>slides/6.Keith%20on%20stone%20beach%2C%20castle%20behind.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Keith%20on%20stone%20beach%2C%20castle%20behind.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Keith%20on%20stone%20beach%2C%20castle%20behind.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Keith%20on%20stone%20beach%2C%20castle%20behind.jpg</guid>
+        </item>
+    </channel>
+</rss>

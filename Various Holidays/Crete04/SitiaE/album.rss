@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SitiaE</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Sitia bus station grocery run</title>
+            <link>slides/1.Sitia%20bus%20station%20grocery%20run.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Sitia%20bus%20station%20grocery%20run.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Sitia%20bus%20station%20grocery%20run.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/1.Sitia%20bus%20station%20grocery%20run.jpg</guid>
+        </item>
+        <item>
+            <title>2.Zakros, Map of Gorge</title>
+            <link>slides/2.Zakros%2C%20Map%20of%20Gorge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Zakros%2C%20Map%20of%20Gorge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Zakros%2C%20Map%20of%20Gorge.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Zakros%2C%20Map%20of%20Gorge.jpg</guid>
+        </item>
+        <item>
+            <title>4.Zakros Gorge</title>
+            <link>slides/4.Zakros%20Gorge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Zakros%20Gorge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Zakros%20Gorge.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Zakros%20Gorge.jpg</guid>
+        </item>
+        <item>
+            <title>5.Zakros Gorge</title>
+            <link>slides/5.Zakros%20Gorge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Zakros%20Gorge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Zakros%20Gorge.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Zakros%20Gorge.jpg</guid>
+        </item>
+    </channel>
+</rss>

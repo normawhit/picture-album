@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>becssg_images</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Di_150_225_95</title>
+            <link>slides/Di_150_225_95.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Di_150_225_95.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Di_150_225_95.jpg" width="150" height="225"/>
+            <guid isPermaLink="false">slides/Di_150_225_95.jpg</guid>
+        </item>
+        <item>
+            <title>Jean_300_199_95</title>
+            <link>slides/Jean_300_199_95.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Jean_300_199_95.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Jean_300_199_95.jpg" width="300" height="199"/>
+            <guid isPermaLink="false">slides/Jean_300_199_95.jpg</guid>
+        </item>
+        <item>
+            <title>peg_149_225_95</title>
+            <link>slides/peg_149_225_95.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/peg_149_225_95.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/peg_149_225_95.jpg" width="149" height="225"/>
+            <guid isPermaLink="false">slides/peg_149_225_95.jpg</guid>
+        </item>
+    </channel>
+</rss>

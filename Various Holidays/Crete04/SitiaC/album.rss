@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SitiaC</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Moni Toplu and Vai</title>
+            <link>slides/1.Moni%20Toplu%20and%20Vai.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Moni%20Toplu%20and%20Vai.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Moni%20Toplu%20and%20Vai.jpg" width="420" height="300"/>
+            <guid isPermaLink="false">slides/1.Moni%20Toplu%20and%20Vai.jpg</guid>
+        </item>
+        <item>
+            <title>2.Walk to Moni Toplu</title>
+            <link>slides/2.Walk%20to%20Moni%20Toplu.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Walk%20to%20Moni%20Toplu.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Walk%20to%20Moni%20Toplu.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Walk%20to%20Moni%20Toplu.jpg</guid>
+        </item>
+        <item>
+            <title>3.Moni Toplu</title>
+            <link>slides/3.Moni%20Toplu.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Moni%20Toplu.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Moni%20Toplu.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Moni%20Toplu.jpg</guid>
+        </item>
+        <item>
+            <title>4.Moni Toplu, tall cactus</title>
+            <link>slides/4.Moni%20Toplu%2C%20tall%20cactus.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Moni%20Toplu%2C%20tall%20cactus.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Moni%20Toplu%2C%20tall%20cactus.jpg" width="400" height="711"/>
+            <guid isPermaLink="false">slides/4.Moni%20Toplu%2C%20tall%20cactus.jpg</guid>
+        </item>
+        <item>
+            <title>5.Look back to Moni Toplu</title>
+            <link>slides/5.Look%20back%20to%20Moni%20Toplu.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Look%20back%20to%20Moni%20Toplu.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Look%20back%20to%20Moni%20Toplu.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Look%20back%20to%20Moni%20Toplu.jpg</guid>
+        </item>
+    </channel>
+</rss>

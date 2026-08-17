@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2004</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="FamilyEarly2004/album.rss" title="FamilyEarly2004" thumbnail="FamilyEarly2004/thumbs/bedtime.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="FamilyOttawaJune04/album.rss" title="FamilyOttawaJune04" thumbnail="FamilyOttawaJune04/thumbs/13zacharybars.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="LacChevreuilJune/album.rss" title="Lac Chevreuil" thumbnail="LacChevreuilJune/thumbs/16hudsonokaferry.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Mabels90thLancasterMay04/album.rss" title="Mabel&apos;s 90th Lancaster May" thumbnail="Mabels90thLancasterMay04/thumbs/19wildgarlicnearstonebarn.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SandbanksJuneJuly04/album.rss" title="Sandbanks July " thumbnail="SandbanksJuneJuly04/thumbs/48Skyebylake0704.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="TobermoryJune04/album.rss" title="Tobermory June" thumbnail="TobermoryJune04/thumbs/11tobermoryharbour.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

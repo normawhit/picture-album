@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Historic</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Norma &amp; baby vivian</title>
+            <link>slides/Norma%20-%20baby%20vivian.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Norma%20-%20baby%20vivian.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Norma%20-%20baby%20vivian.png" width="527" height="339"/>
+            <guid isPermaLink="false">slides/Norma%20-%20baby%20vivian.png</guid>
+        </item>
+        <item>
+            <title>EDSAC transistor bank</title>
+            <link>slides/EDSAC.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/EDSAC.png" width="124" height="124"/>
+            <media:content type="image/gif" url="EDSAC.gif" width="300" height="192"/>
+            <guid isPermaLink="false">EDSAC.gif</guid>
+        </item>
+        <item>
+            <title>Norma graduates and Kenneth</title>
+            <link>slides/PicturesKennethMeGraduation.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PicturesKennethMeGraduation.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/PicturesKennethMeGraduation.png" width="864" height="448"/>
+            <guid isPermaLink="false">slides/PicturesKennethMeGraduation.png</guid>
+        </item>
+    </channel>
+</rss>

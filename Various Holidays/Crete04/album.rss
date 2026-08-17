@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Crete 2004</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Agios0/album.rss" title="Agios0" thumbnail="Agios0/thumbs/1.%20Chavania%20from%20our%20balcony.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="AgiosA/album.rss" title="AgiosA" thumbnail="AgiosA/thumbs/1.Agios-Kritsa.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="AgiosB/album.rss" title="AgiosB" thumbnail="AgiosB/thumbs/1.Elounda-Plaka.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="AgiosC/album.rss" title="AgiosC" thumbnail="AgiosC/thumbs/1.View%20right%20to%20Spinalonga%20Peninsula.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="HeraklionA/album.rss" title="HeraklionA" thumbnail="HeraklionA/thumbs/1.Colours%20in%20sea.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="HeraklionB/album.rss" title="HeraklionB" thumbnail="HeraklionB/thumbs/1.Approaching%20Agia%20Roumeli.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="HeraklionC/album.rss" title="HeraklionC" thumbnail="HeraklionC/thumbs/1.Loutro%2C%20Hotels%20in%20the%20bay.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="HeraklionD/album.rss" title="HeraklionD" thumbnail="HeraklionD/thumbs/1.Map%2C%20Hora%20Sfakion.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="HeraklionE/album.rss" title="HeraklionE" thumbnail="HeraklionE/thumbs/1.Sunset%20Taverna%2C%20Salt%20Cedar.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="HeraklionF/album.rss" title="HeraklionF" thumbnail="HeraklionF/thumbs/1.Knossos%20Apartments.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PaleohoraA/album.rss" title="PaleohoraA" thumbnail="PaleohoraA/thumbs/0.paleohora.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PaleohoraB/album.rss" title="PaleohoraB" thumbnail="PaleohoraB/thumbs/1.Anidri%20Gorge%20from%20ship.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PaleohoraC/album.rss" title="PaleohoraC" thumbnail="PaleohoraC/thumbs/1.Cliffs%2C%20Anidri-Paleohora.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PaleohoraD/album.rss" title="PaleohoraD" thumbnail="PaleohoraD/thumbs/1.Paleohora%2C%20Harbour%20and%20Castle.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PaleohoraE/album.rss" title="PaleohoraE" thumbnail="PaleohoraE/thumbs/1.Paleohora%20and%20Venetian%20Castle%20from%20hotel.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="RC4GRockSquad/album.rss" title="RC4GRockSquad" thumbnail="RC4GRockSquad/thumbs/Di.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SitiaA/album.rss" title="SitiaA" thumbnail="SitiaA/thumbs/1.Sitia%20from%20El%20Greco.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SitiaB/album.rss" title="SitiaB" thumbnail="SitiaB/thumbs/1.Kali%20Kardia.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SitiaC/album.rss" title="SitiaC" thumbnail="SitiaC/thumbs/1.Moni%20Toplu%20and%20Vai.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SitiaD/album.rss" title="SitiaD" thumbnail="SitiaD/thumbs/2.Beach%20at%20Vai.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SitiaE/album.rss" title="SitiaE" thumbnail="SitiaE/thumbs/1.Sitia%20bus%20station%20grocery%20run.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SougiaA/album.rss" title="SougiaA" thumbnail="SougiaA/thumbs/1.Paleohora%20from%20castle.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SougiaB/album.rss" title="SougiaB" thumbnail="SougiaB/thumbs/1.Lissos%2C%20looking%20back%20at%20our%20descent.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SougiaC/album.rss" title="SougiaC" thumbnail="SougiaC/thumbs/1.In%20Agia%20Irini%20Gorge.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SpiliA/album.rss" title="SpiliA" thumbnail="SpiliA/thumbs/1.Spili%2C%20Kostas%20Inn.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SpiliB/album.rss" title="SpiliB" thumbnail="SpiliB/thumbs/1.AroundSpili.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SpiliC/album.rss" title="SpiliC" thumbnail="SpiliC/thumbs/1.Path%2CAsomatos%20Preveli.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="SpiliD/album.rss" title="SpiliD" thumbnail="SpiliD/thumbs/1.Hania%2C%20Venetian%20Harbour.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+        <item>
+            <title>01_29Chavania</title>
+            <link>slides/01_29Chavania.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_29Chavania.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01_29Chavania.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/01_29Chavania.jpg</guid>
+        </item>
+        <item>
+            <title>01_30ApartmentsGalini</title>
+            <link>slides/01_30ApartmentsGalini.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_30ApartmentsGalini.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01_30ApartmentsGalini.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/01_30ApartmentsGalini.jpg</guid>
+        </item>
+        <item>
+            <title>02_08BoardingBusAtAgios</title>
+            <link>slides/02_08BoardingBusAtAgios.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02_08BoardingBusAtAgios.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02_08BoardingBusAtAgios.jpg" width="500" height="281"/>
+            <guid isPermaLink="false">slides/02_08BoardingBusAtAgios.jpg</guid>
+        </item>
+        <item>
+            <title>miniCrete</title>
+            <link>slides/miniCrete.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/miniCrete.png" width="124" height="124"/>
+            <media:content type="image/gif" url="miniCrete.gif" width="495" height="355"/>
+            <guid isPermaLink="false">miniCrete.gif</guid>
+        </item>
+        <item>
+            <title>paleohora</title>
+            <link>slides/paleohora.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/paleohora.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/paleohora.jpg" width="500" height="276"/>
+            <guid isPermaLink="false">slides/paleohora.jpg</guid>
+        </item>
+        <item>
+            <title>Sougia to Rethymno</title>
+            <link>slides/Sougia%20to%20Rethymno.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Sougia%20to%20Rethymno.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Sougia%20to%20Rethymno.jpg" width="960" height="495"/>
+            <guid isPermaLink="false">slides/Sougia%20to%20Rethymno.jpg</guid>
+        </item>
+    </channel>
+</rss>

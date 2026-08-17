@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Baby Skye</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Skye in walker June 2002</title>
+            <link>slides/05InWalkerJune2002.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05InWalkerJune2002.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05InWalkerJune2002.jpg" width="800" height="453"/>
+            <guid isPermaLink="false">slides/05InWalkerJune2002.jpg</guid>
+        </item>
+        <item>
+            <title>Skye at table dec 2003</title>
+            <link>slides/10Skyeattabledec03.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10Skyeattabledec03.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/10Skyeattabledec03.jpg" width="700" height="708"/>
+            <guid isPermaLink="false">slides/10Skyeattabledec03.jpg</guid>
+        </item>
+        <item>
+            <title>Skye kitchen Dec 2003</title>
+            <link>slides/12vnSkyekitchendec03.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12vnSkyekitchendec03.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/12vnSkyekitchendec03.jpg" width="500" height="666"/>
+            <guid isPermaLink="false">slides/12vnSkyekitchendec03.jpg</guid>
+        </item>
+        <item>
+            <title>New in family</title>
+            <link>slides/00newinfamily.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/00newinfamily.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/00newinfamily.jpg" width="800" height="540"/>
+            <guid isPermaLink="false">slides/00newinfamily.jpg</guid>
+        </item>
+        <item>
+            <title>Skye - daddy&apos;s little girl</title>
+            <link>slides/01Skyedaddyslittlegirl.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01Skyedaddyslittlegirl.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01Skyedaddyslittlegirl.jpg" width="770" height="589"/>
+            <guid isPermaLink="false">slides/01Skyedaddyslittlegirl.jpg</guid>
+        </item>
+        <item>
+            <title>Almost newborn - Skye Blue</title>
+            <link>slides/02almostnewbornSkyeblue.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02almostnewbornSkyeblue.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02almostnewbornSkyeblue.jpg" width="400" height="616"/>
+            <guid isPermaLink="false">slides/02almostnewbornSkyeblue.jpg</guid>
+        </item>
+        <item>
+            <title>with Aunite Sandra Nov 2001</title>
+            <link>slides/04withauntiesandranov2001.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04withauntiesandranov2001.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04withauntiesandranov2001.jpg" width="559" height="559"/>
+            <guid isPermaLink="false">slides/04withauntiesandranov2001.jpg</guid>
+        </item>
+    </channel>
+</rss>

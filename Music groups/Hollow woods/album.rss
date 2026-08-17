@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hollow Woods</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2025 Halloween st Special Needs group</title>
+            <link>slides/2025-10Halloween.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2025-10Halloween.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2025-10Halloween.jpeg" width="1063" height="800"/>
+            <guid isPermaLink="false">slides/2025-10Halloween.jpeg</guid>
+        </item>
+        <item>
+            <title>2025 Medieval Fair</title>
+            <link>slides/2025%20MedievalFair2025.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2025%20MedievalFair2025.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2025%20MedievalFair2025.jpg" width="1199" height="800"/>
+            <jalbum:exif originalDate="Sun, 16 Nov 2025 15:49:55 -0500" cameraMake="RICOH IMAGING COMPANY, LTD." cameraModel="PENTAX K-1 Mark II"/>
+            <guid isPermaLink="false">slides/2025%20MedievalFair2025.jpg</guid>
+        </item>
+    </channel>
+</rss>

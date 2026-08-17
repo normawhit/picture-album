@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2007</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="AroundPeterborough2007/album.rss" title="AroundPeterborough2007" thumbnail="AroundPeterborough2007/thumbs/01garbage%20collection.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="BabyEmma/album.rss" title="BabyEmma" thumbnail="BabyEmma/thumbs/12iwearmyblanket.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="FamilyFeb2007/album.rss" title="FamilyFeb2007" thumbnail="FamilyFeb2007/thumbs/01Riverview%20park.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="FamilySummer2007/album.rss" title="FamilySummer2007" thumbnail="FamilySummer2007/thumbs/00riverside%20park%20and%20zoo.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="GuitarWorkshop2007/album.rss" title="GuitarWorkshop2007" thumbnail="GuitarWorkshop2007/thumbs/01AlJim.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="LancasterFeb2007/album.rss" title="LancasterFeb2007" thumbnail="LancasterFeb2007/thumbs/07Natland%20church.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="MovingToNewHouseInPeterborough/album.rss" title="MovingToNewHouseInPeterborough" thumbnail="MovingToNewHouseInPeterborough/thumbs/01flatKeith.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

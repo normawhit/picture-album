@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mandolin Society</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Norma and Renee, Blue Horse</title>
+            <link>slides/BlueHorse1.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BlueHorse1.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BlueHorse1.JPG" width="720" height="540"/>
+            <jalbum:exif originalDate="Sat, 25 Feb 2017 19:25:44 -0500" cameraMake="Apple" cameraModel="iPhone 7"/>
+            <guid isPermaLink="false">slides/BlueHorse1.JPG</guid>
+        </item>
+        <item>
+            <title>Norma and Renee, Blue Horse</title>
+            <link>slides/BlueHorse2.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BlueHorse2.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BlueHorse2.JPG" width="720" height="540"/>
+            <jalbum:exif originalDate="Sat, 25 Feb 2017 19:26:31 -0500" cameraMake="Apple" cameraModel="iPhone 7"/>
+            <guid isPermaLink="false">slides/BlueHorse2.JPG</guid>
+        </item>
+        <item>
+            <title>Norma and Renee, Blue Horse</title>
+            <link>slides/BlueHorse3.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BlueHorse3.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/BlueHorse3.JPG" width="720" height="540"/>
+            <jalbum:exif originalDate="Sat, 25 Feb 2017 19:26:35 -0500" cameraMake="Apple" cameraModel="iPhone 7"/>
+            <guid isPermaLink="false">slides/BlueHorse3.JPG</guid>
+        </item>
+        <item>
+            <title>Mandolin Society</title>
+            <link>slides/MSOP%202%20photos%20cropped%20balanced%20IMG_1209_stitch_edited.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MSOP%202%20photos%20cropped%20balanced%20IMG_1209_stitch_edited.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MSOP%202%20photos%20cropped%20balanced%20IMG_1209_stitch_edited.jpg" width="1080" height="460"/>
+            <guid isPermaLink="false">slides/MSOP%202%20photos%20cropped%20balanced%20IMG_1209_stitch_edited.jpg</guid>
+        </item>
+        <item>
+            <title>Poster 2026</title>
+            <link>slides/MSOP%20Mandolin%20Mayhem%202016.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MSOP%20Mandolin%20Mayhem%202016.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MSOP%20Mandolin%20Mayhem%202016.jpg" width="588" height="800"/>
+            <guid isPermaLink="false">slides/MSOP%20Mandolin%20Mayhem%202016.jpg</guid>
+        </item>
+        <item>
+            <title>Long photo 2016</title>
+            <link>slides/Long%20photo2016.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Long%20photo2016.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Long%20photo2016.jpg" width="1200" height="158"/>
+            <guid isPermaLink="false">slides/Long%20photo2016.jpg</guid>
+        </item>
+        <item>
+            <title>Poster 2015</title>
+            <link>slides/MSOP-Mando-mongous-ePoster2015.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MSOP-Mando-mongous-ePoster2015.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MSOP-Mando-mongous-ePoster2015.jpg" width="588" height="800"/>
+            <guid isPermaLink="false">slides/MSOP-Mando-mongous-ePoster2015.jpg</guid>
+        </item>
+        <item>
+            <title>Poster 2013</title>
+            <link>slides/MSOP-MoreMandoMerriment-PosterDraft2013.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MSOP-MoreMandoMerriment-PosterDraft2013.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MSOP-MoreMandoMerriment-PosterDraft2013.jpg" width="353" height="480"/>
+            <guid isPermaLink="false">slides/MSOP-MoreMandoMerriment-PosterDraft2013.jpg</guid>
+        </item>
+    </channel>
+</rss>

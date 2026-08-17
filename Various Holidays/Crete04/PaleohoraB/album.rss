@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>PaleohoraB</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Anidri Gorge from ship</title>
+            <link>slides/1.Anidri%20Gorge%20from%20ship.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Anidri%20Gorge%20from%20ship.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Anidri%20Gorge%20from%20ship.jpg" width="696" height="449"/>
+            <guid isPermaLink="false">slides/1.Anidri%20Gorge%20from%20ship.jpg</guid>
+        </item>
+        <item>
+            <title>2.In Anidri Gorge</title>
+            <link>slides/2.In%20Anidri%20Gorge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.In%20Anidri%20Gorge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.In%20Anidri%20Gorge.jpg" width="337" height="600"/>
+            <guid isPermaLink="false">slides/2.In%20Anidri%20Gorge.jpg</guid>
+        </item>
+        <item>
+            <title>3.Sto Skolio, Top of Anidri gorge</title>
+            <link>slides/3.Sto%20Skolio%2C%20Top%20of%20Anidri%20gorge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Sto%20Skolio%2C%20Top%20of%20Anidri%20gorge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Sto%20Skolio%2C%20Top%20of%20Anidri%20gorge.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Sto%20Skolio%2C%20Top%20of%20Anidri%20gorge.jpg</guid>
+        </item>
+        <item>
+            <title>4.Top of Anidri gorge</title>
+            <link>slides/4.Top%20of%20Anidri%20gorge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Top%20of%20Anidri%20gorge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Top%20of%20Anidri%20gorge.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Top%20of%20Anidri%20gorge.jpg</guid>
+        </item>
+        <item>
+            <title>5.Anidri, Church of Agios Georgios</title>
+            <link>slides/5.Anidri%2C%20Church%20of%20Agios%20Georgios.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Anidri%2C%20Church%20of%20Agios%20Georgios.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Anidri%2C%20Church%20of%20Agios%20Georgios.jpg" width="400" height="588"/>
+            <guid isPermaLink="false">slides/5.Anidri%2C%20Church%20of%20Agios%20Georgios.jpg</guid>
+        </item>
+        <item>
+            <title>6.Fresco, 14C</title>
+            <link>slides/6.Fresco%2C%2014C.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Fresco%2C%2014C.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Fresco%2C%2014C.jpg" width="372" height="590"/>
+            <guid isPermaLink="false">slides/6.Fresco%2C%2014C.jpg</guid>
+        </item>
+    </channel>
+</rss>

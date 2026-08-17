@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SitiaA</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Sitia from El Greco</title>
+            <link>slides/1.Sitia%20from%20El%20Greco.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Sitia%20from%20El%20Greco.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Sitia%20from%20El%20Greco.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/1.Sitia%20from%20El%20Greco.jpg</guid>
+        </item>
+        <item>
+            <title>2.Sitia Harbour and town</title>
+            <link>slides/2.Sitia%20Harbour%20and%20town.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Sitia%20Harbour%20and%20town.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Sitia%20Harbour%20and%20town.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Sitia%20Harbour%20and%20town.jpg</guid>
+        </item>
+        <item>
+            <title>3.Promenade, Keith by palm</title>
+            <link>slides/3.Promenade%2C%20Keith%20by%20palm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Promenade%2C%20Keith%20by%20palm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Promenade%2C%20Keith%20by%20palm.jpg" width="289" height="540"/>
+            <guid isPermaLink="false">slides/3.Promenade%2C%20Keith%20by%20palm.jpg</guid>
+        </item>
+        <item>
+            <title>4.Promenade, Keith by palm tree</title>
+            <link>slides/4.Promenade%2C%20Keith%20by%20palm%20tree.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Promenade%2C%20Keith%20by%20palm%20tree.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Promenade%2C%20Keith%20by%20palm%20tree.jpg" width="391" height="540"/>
+            <guid isPermaLink="false">slides/4.Promenade%2C%20Keith%20by%20palm%20tree.jpg</guid>
+        </item>
+        <item>
+            <title>5.View from El Greco</title>
+            <link>slides/5.View%20from%20El%20Greco.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.View%20from%20El%20Greco.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.View%20from%20El%20Greco.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.View%20from%20El%20Greco.jpg</guid>
+        </item>
+        <item>
+            <title>6.Boat in Sitia Harbour</title>
+            <link>slides/6.Boat%20in%20Sitia%20Harbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Boat%20in%20Sitia%20Harbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Boat%20in%20Sitia%20Harbour.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Boat%20in%20Sitia%20Harbour.jpg</guid>
+        </item>
+    </channel>
+</rss>

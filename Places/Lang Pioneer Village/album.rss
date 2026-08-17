@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Lang Pioneer Village</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Renee and Norma Lang Sept 2020</title>
+            <link>slides/Renee%20and%20Norma%20Lang%20Sept%202020.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Renee%20and%20Norma%20Lang%20Sept%202020.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Renee%20and%20Norma%20Lang%20Sept%202020.jpg" width="1063" height="716"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-T290"/>
+            <guid isPermaLink="false">slides/Renee%20and%20Norma%20Lang%20Sept%202020.jpg</guid>
+        </item>
+        <item>
+            <title>Al with Banjo 2012</title>
+            <link>slides/Banjo%20Al%2C%20May%202012.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Banjo%20Al%2C%20May%202012.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Banjo%20Al%2C%20May%202012.JPG" width="529" height="771"/>
+            <jalbum:exif originalDate="Tue, 15 May 2012 12:29:02 -0400" cameraMake="SONY" cameraModel="DSC-W310"/>
+            <guid isPermaLink="false">slides/Banjo%20Al%2C%20May%202012.JPG</guid>
+        </item>
+        <item>
+            <title>Keene church</title>
+            <link>slides/KeeneChurch.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/KeeneChurch.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/KeeneChurch.jpg" width="200" height="300"/>
+            <guid isPermaLink="false">slides/KeeneChurch.jpg</guid>
+        </item>
+        <item>
+            <title>The Mop Girls, August 2017</title>
+            <link>slides/The%20Mop%20Girls%2C%20August%202017.html</link>
+            <pubDate>Sun, 16 Aug 2026 18:51:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/The%20Mop%20Girls%2C%20August%202017.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/The%20Mop%20Girls%2C%20August%202017.png" width="1197" height="758"/>
+            <guid isPermaLink="false">slides/The%20Mop%20Girls%2C%20August%202017.png</guid>
+        </item>
+    </channel>
+</rss>

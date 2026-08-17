@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SitiaD</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2.Beach at Vai</title>
+            <link>slides/2.Beach%20at%20Vai.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Beach%20at%20Vai.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Beach%20at%20Vai.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Beach%20at%20Vai.jpg</guid>
+        </item>
+        <item>
+            <title>3.Beach at Vai from steps</title>
+            <link>slides/3.Beach%20at%20Vai%20from%20steps.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Beach%20at%20Vai%20from%20steps.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Beach%20at%20Vai%20from%20steps.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Beach%20at%20Vai%20from%20steps.jpg</guid>
+        </item>
+        <item>
+            <title>4.Vai, Coast to North</title>
+            <link>slides/4.Vai%2C%20Coast%20to%20North.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Vai%2C%20Coast%20to%20North.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Vai%2C%20Coast%20to%20North.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Vai%2C%20Coast%20to%20North.jpg</guid>
+        </item>
+        <item>
+            <title>5.Above Vai,, looking South to next cove</title>
+            <link>slides/5.Above%20Vai%2C%2C%20looking%20South%20to%20next%20cove.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Above%20Vai%2C%2C%20looking%20South%20to%20next%20cove.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Above%20Vai%2C%2C%20looking%20South%20to%20next%20cove.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Above%20Vai%2C%2C%20looking%20South%20to%20next%20cove.jpg</guid>
+        </item>
+        <item>
+            <title>6.Palms at Vai</title>
+            <link>slides/6.Palms%20at%20Vai.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Palms%20at%20Vai.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Palms%20at%20Vai.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Palms%20at%20Vai.jpg</guid>
+        </item>
+        <item>
+            <title>7.Rocks to swim round</title>
+            <link>slides/7.Rocks%20to%20swim%20round.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.Rocks%20to%20swim%20round.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/7.Rocks%20to%20swim%20round.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/7.Rocks%20to%20swim%20round.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SpiliD</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Hania, Venetian Harbour</title>
+            <link>slides/1.Hania%2C%20Venetian%20Harbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Hania%2C%20Venetian%20Harbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Hania%2C%20Venetian%20Harbour.jpg" width="388" height="450"/>
+            <guid isPermaLink="false">slides/1.Hania%2C%20Venetian%20Harbour.jpg</guid>
+        </item>
+        <item>
+            <title>2.Hania, Orthodox Cathedral</title>
+            <link>slides/2.Hania%2C%20Orthodox%20Cathedral.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Hania%2C%20Orthodox%20Cathedral.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Hania%2C%20Orthodox%20Cathedral.jpg" width="350" height="496"/>
+            <guid isPermaLink="false">slides/2.Hania%2C%20Orthodox%20Cathedral.jpg</guid>
+        </item>
+        <item>
+            <title>3.Hania, Taverna Apovrado</title>
+            <link>slides/3.Hania%2C%20Taverna%20Apovrado.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Hania%2C%20Taverna%20Apovrado.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Hania%2C%20Taverna%20Apovrado.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Hania%2C%20Taverna%20Apovrado.jpg</guid>
+        </item>
+        <item>
+            <title>4.Hania, Plateia Athnagora</title>
+            <link>slides/4.Hania%2C%20Plateia%20Athnagora.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Hania%2C%20Plateia%20Athnagora.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Hania%2C%20Plateia%20Athnagora.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Hania%2C%20Plateia%20Athnagora.jpg</guid>
+        </item>
+        <item>
+            <title>5.Hania Harbour</title>
+            <link>slides/5.Hania%20Harbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Hania%20Harbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Hania%20Harbour.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Hania%20Harbour.jpg</guid>
+        </item>
+        <item>
+            <title>6.Hania, Norma buying toys on harbour</title>
+            <link>slides/6.Hania%2C%20Norma%20buying%20toys%20on%20harbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Hania%2C%20Norma%20buying%20toys%20on%20harbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Hania%2C%20Norma%20buying%20toys%20on%20harbour.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Hania%2C%20Norma%20buying%20toys%20on%20harbour.jpg</guid>
+        </item>
+        <item>
+            <title>7.Harbour Harnia</title>
+            <link>slides/7.Harbour%20Harnia.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.Harbour%20Harnia.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/7.Harbour%20Harnia.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/7.Harbour%20Harnia.jpg</guid>
+        </item>
+    </channel>
+</rss>

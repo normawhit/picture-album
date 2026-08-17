@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SpiliB</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.AroundSpili</title>
+            <link>slides/1.AroundSpili.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.AroundSpili.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.AroundSpili.jpg" width="456" height="336"/>
+            <guid isPermaLink="false">slides/1.AroundSpili.jpg</guid>
+        </item>
+        <item>
+            <title>2.On the path to Frati</title>
+            <link>slides/2.On%20the%20path%20to%20Frati.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.On%20the%20path%20to%20Frati.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.On%20the%20path%20to%20Frati.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.On%20the%20path%20to%20Frati.jpg</guid>
+        </item>
+        <item>
+            <title>3.Taverna in Frati</title>
+            <link>slides/3.Taverna%20in%20Frati.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Taverna%20in%20Frati.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Taverna%20in%20Frati.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Taverna%20in%20Frati.jpg</guid>
+        </item>
+        <item>
+            <title>4.View from Frati</title>
+            <link>slides/4.View%20from%20Frati.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.View%20from%20Frati.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.View%20from%20Frati.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.View%20from%20Frati.jpg</guid>
+        </item>
+        <item>
+            <title>5.Aloe flower spike on path back</title>
+            <link>slides/5.Aloe%20flower%20spike%20on%20path%20back.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Aloe%20flower%20spike%20on%20path%20back.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Aloe%20flower%20spike%20on%20path%20back.jpg" width="449" height="726"/>
+            <guid isPermaLink="false">slides/5.Aloe%20flower%20spike%20on%20path%20back.jpg</guid>
+        </item>
+        <item>
+            <title>6.Old Mixorrourma</title>
+            <link>slides/6.Old%20Mixorrourma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Old%20Mixorrourma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Old%20Mixorrourma.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Old%20Mixorrourma.jpg</guid>
+        </item>
+    </channel>
+</rss>

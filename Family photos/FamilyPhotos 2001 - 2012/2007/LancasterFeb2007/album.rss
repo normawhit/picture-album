@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>LancasterFeb2007</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Natland church</title>
+            <link>slides/07Natland%20church.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07Natland%20church.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/07Natland%20church.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 11:01:36 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/07Natland%20church.jpg</guid>
+        </item>
+        <item>
+            <title>Oxenholme</title>
+            <link>slides/07Oxenholme.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07Oxenholme.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/07Oxenholme.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 11:01:58 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/07Oxenholme.jpg</guid>
+        </item>
+        <item>
+            <title>Burroughbeck</title>
+            <link>slides/08Oxenholme.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08Oxenholme.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/08Oxenholme.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Thu, 15 Feb 2007 08:09:22 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/08Oxenholme.jpg</guid>
+        </item>
+        <item>
+            <title>The Helm</title>
+            <link>slides/01The%20Helm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01The%20Helm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01The%20Helm.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 09:42:13 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/01The%20Helm.jpg</guid>
+        </item>
+        <item>
+            <title>View from The Helm</title>
+            <link>slides/02ViewFromHelm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02ViewFromHelm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02ViewFromHelm.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 09:42:36 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/02ViewFromHelm.jpg</guid>
+        </item>
+        <item>
+            <title>View from The Helm</title>
+            <link>slides/03ViewFromHelm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03ViewFromHelm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03ViewFromHelm.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 09:42:55 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/03ViewFromHelm.jpg</guid>
+        </item>
+        <item>
+            <title>View from The Helm</title>
+            <link>slides/04ViewFromHelm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04ViewFromHelm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04ViewFromHelm.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 10:10:02 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/04ViewFromHelm.jpg</guid>
+        </item>
+        <item>
+            <title>View from The Helm</title>
+            <link>slides/05ViewFromHelm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05ViewFromHelm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05ViewFromHelm.jpg" width="1024" height="576"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 10:12:22 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/05ViewFromHelm.jpg</guid>
+        </item>
+        <item>
+            <title>Mabel?</title>
+            <link>slides/06Mabel.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06Mabel.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06Mabel.jpg" width="450" height="800"/>
+            <jalbum:exif originalDate="Wed, 14 Feb 2007 10:46:32 -0500" cameraMake="FUJIFILM" cameraModel="FinePix F810   "/>
+            <guid isPermaLink="false">slides/06Mabel.jpg</guid>
+        </item>
+    </channel>
+</rss>

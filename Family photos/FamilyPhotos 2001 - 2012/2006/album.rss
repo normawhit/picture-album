@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2006</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="BlueSeaJune2006/album.rss" title="Blue Sea June 2006" thumbnail="BlueSeaJune2006/thumbs/blueseagroup.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="LakeDistrictScotlandMay2006/album.rss" title="Lake District and Scotland May 2006" thumbnail="LakeDistrictScotlandMay2006/thumbs/01Bowland%20Bridge%20walk%2CD%2CG.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="LancasterAugSept2006/album.rss" title="Lancaster Aug/Sept 2006" thumbnail="LancasterAugSept2006/thumbs/01ViewFromHeights.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="LancasterOct2006/album.rss" title="LancasterOct2006" thumbnail="LancasterOct2006/thumbs/01Burroughbeck.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="LancasterWithMabelMay06/album.rss" title="Lancaster with Mabel 2006" thumbnail="LancasterWithMabelMay06/thumbs/0508%2005%20SkyeKeithwithpinky.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PenetangJune06/album.rss" title="PenetangJune06" thumbnail="PenetangJune06/thumbs/Skye%20on%20our%20beach.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="RobinsonChristmas2006/album.rss" title="RobinsonChristmas2006" thumbnail="RobinsonChristmas2006/thumbs/1Santa%20Scott%20arrives.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="WeddingSandraKevinJune2006/album.rss" title="WeddingSandraKevinJune2006" thumbnail="WeddingSandraKevinJune2006/thumbs/2006-06-16-001bonnieviewentrance.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

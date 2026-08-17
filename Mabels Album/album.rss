@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mabels Album</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Me&amp;Dad</title>
+            <link>slides/Me-Dad.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Me-Dad.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Me-Dad.jpeg" width="1003" height="682"/>
+            <guid isPermaLink="false">slides/Me-Dad.jpeg</guid>
+        </item>
+        <item>
+            <title>Mum&amp;Dad&apos;s wedding</title>
+            <link>slides/Mum-Dad%27s%20wedding.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Mum-Dad%27s%20wedding.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Mum-Dad%27s%20wedding.jpeg" width="666" height="800"/>
+            <guid isPermaLink="false">slides/Mum-Dad%27s%20wedding.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 3</title>
+            <link>slides/Scan%203.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%203.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%203.jpeg" width="1102" height="800"/>
+            <guid isPermaLink="false">slides/Scan%203.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 11</title>
+            <link>slides/Scan%2011.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%2011.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%2011.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%2011.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 12</title>
+            <link>slides/Scan%2012.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%2012.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%2012.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%2012.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 10</title>
+            <link>slides/Scan%2010.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%2010.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%2010.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%2010.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 4</title>
+            <link>slides/Scan%204.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%204.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%204.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%204.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 9</title>
+            <link>slides/Scan%209.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%209.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%209.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%209.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 5</title>
+            <link>slides/Scan%205.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%205.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%205.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%205.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 6</title>
+            <link>slides/Scan%206.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%206.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%206.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%206.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 8</title>
+            <link>slides/Scan%208.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%208.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%208.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%208.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 7</title>
+            <link>slides/Scan%207.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%207.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%207.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%207.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 1</title>
+            <link>slides/Scan%201.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%201.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%201.jpeg" width="997" height="800"/>
+            <guid isPermaLink="false">slides/Scan%201.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 15</title>
+            <link>slides/Scan%2015.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%2015.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%2015.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%2015.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 16</title>
+            <link>slides/Scan%2016.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%2016.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%2016.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%2016.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 13</title>
+            <link>slides/Scan%2013.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%2013.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%2013.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%2013.jpeg</guid>
+        </item>
+        <item>
+            <title>Scan 14</title>
+            <link>slides/Scan%2014.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Scan%2014.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Scan%2014.jpeg" width="1107" height="800"/>
+            <guid isPermaLink="false">slides/Scan%2014.jpeg</guid>
+        </item>
+    </channel>
+</rss>

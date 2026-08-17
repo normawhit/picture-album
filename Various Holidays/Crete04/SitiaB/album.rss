@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>SitiaB</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Kali Kardia</title>
+            <link>slides/1.Kali%20Kardia.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Kali%20Kardia.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Kali%20Kardia.jpg" width="800" height="477"/>
+            <guid isPermaLink="false">slides/1.Kali%20Kardia.jpg</guid>
+        </item>
+        <item>
+            <title>2.Norma at Kali Kardia</title>
+            <link>slides/2.Norma%20at%20Kali%20Kardia.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Norma%20at%20Kali%20Kardia.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Norma%20at%20Kali%20Kardia.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Norma%20at%20Kali%20Kardia.jpg</guid>
+        </item>
+        <item>
+            <title>3.Kali Kardia Menu</title>
+            <link>slides/3.Kali%20Kardia%20Menu.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Kali%20Kardia%20Menu.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Kali%20Kardia%20Menu.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Kali%20Kardia%20Menu.jpg</guid>
+        </item>
+        <item>
+            <title>4.Owner and Regulars</title>
+            <link>slides/4.Owner%20and%20Regulars.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Owner%20and%20Regulars.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Owner%20and%20Regulars.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Owner%20and%20Regulars.jpg</guid>
+        </item>
+        <item>
+            <title>5.Owner with Norma</title>
+            <link>slides/5.Owner%20with%20Norma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Owner%20with%20Norma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Owner%20with%20Norma.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Owner%20with%20Norma.jpg</guid>
+        </item>
+        <item>
+            <title>6.Sitia, Morning street life</title>
+            <link>slides/6.Sitia%2C%20Morning%20street%20life.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Sitia%2C%20Morning%20street%20life.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Sitia%2C%20Morning%20street%20life.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Sitia%2C%20Morning%20street%20life.jpg</guid>
+        </item>
+        <item>
+            <title>7.Back of El Greco</title>
+            <link>slides/7.Back%20of%20El%20Greco.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.Back%20of%20El%20Greco.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/7.Back%20of%20El%20Greco.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/7.Back%20of%20El%20Greco.jpg</guid>
+        </item>
+    </channel>
+</rss>

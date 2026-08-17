@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>becssg_thumbs</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Di_28_42_80</title>
+            <link>slides/Di_28_42_80.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Di_28_42_80.jpg" width="28" height="28"/>
+            <media:content type="image/jpeg" url="slides/Di_28_42_80.jpg" width="28" height="42"/>
+            <guid isPermaLink="false">slides/Di_28_42_80.jpg</guid>
+        </item>
+        <item>
+            <title>Jean_56_37_80</title>
+            <link>slides/Jean_56_37_80.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Jean_56_37_80.jpg" width="37" height="37"/>
+            <media:content type="image/jpeg" url="slides/Jean_56_37_80.jpg" width="56" height="37"/>
+            <guid isPermaLink="false">slides/Jean_56_37_80.jpg</guid>
+        </item>
+        <item>
+            <title>peg_27_42_80</title>
+            <link>slides/peg_27_42_80.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/peg_27_42_80.jpg" width="27" height="27"/>
+            <media:content type="image/jpeg" url="slides/peg_27_42_80.jpg" width="27" height="42"/>
+            <guid isPermaLink="false">slides/peg_27_42_80.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2008</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Family2008/album.rss" title="Family 2008" thumbnail="Family2008/thumbs/2008-04-26Emma%20in%20basket.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="MusicFestivals2008/album.rss" title="Music Festival 2008" thumbnail="MusicFestivals2008/thumbs/01Westben.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="OgopogoOct2008/album.rss" title="OgopogoOct2008" thumbnail="OgopogoOct2008/thumbs/2008-10-07%2019%20img%201106%20canopy%20walk%20-%20Keith%20%20Norma.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="WomensRockWeekendOct2008/album.rss" title="Womens Rock Weekend" thumbnail="WomensRockWeekendOct2008/thumbs/2008-10-26%2006%20dscf1216Normacaroline.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fiddlestix</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Group Spring concert 2023</title>
+            <link>slides/Screenshot%202023-05-21%20at%205.59.37%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202023-05-21%20at%205.59.37%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202023-05-21%20at%205.59.37%20PM.png" width="1149" height="371"/>
+            <guid isPermaLink="false">slides/Screenshot%202023-05-21%20at%205.59.37%20PM.png</guid>
+        </item>
+        <item>
+            <title>Janice and Norma, St Pat&apos;s 2024</title>
+            <link>slides/2024%20Janice%2C%20Norma%20St%20Patrick%27s%20Day.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024%20Janice%2C%20Norma%20St%20Patrick%27s%20Day.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024%20Janice%2C%20Norma%20St%20Patrick%27s%20Day.jpg" width="1065" height="800"/>
+            <jalbum:exif originalDate="Sat, 09 Mar 2024 12:21:38 -0500" cameraMake="Apple" cameraModel="iPhone SE (2nd generation)"/>
+            <guid isPermaLink="false">slides/2024%20Janice%2C%20Norma%20St%20Patrick%27s%20Day.jpg</guid>
+        </item>
+        <item>
+            <title>Renee May 2023 at Nun&apos;s concert</title>
+            <link>slides/2023%20May%20Renee.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2023%20May%20Renee.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2023%20May%20Renee.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/2023%20May%20Renee.jpg</guid>
+        </item>
+        <item>
+            <title>Norma, proof of Covid vaccination 2023</title>
+            <link>slides/2023%20May%20Norma%20at%20St%20Joseph.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2023%20May%20Norma%20at%20St%20Joseph.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2023%20May%20Norma%20at%20St%20Joseph.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/2023%20May%20Norma%20at%20St%20Joseph.jpg</guid>
+        </item>
+        <item>
+            <title>St Pat&apos;s DOuro 2023, Sally and Pam</title>
+            <link>slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg</guid>
+        </item>
+        <item>
+            <title>Devon Wilkins from obit 2025</title>
+            <link>slides/2025-11devon-wilkins-peterborough-on-obituary.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2025-11devon-wilkins-peterborough-on-obituary.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2025-11devon-wilkins-peterborough-on-obituary.jpg" width="433" height="650"/>
+            <guid isPermaLink="false">slides/2025-11devon-wilkins-peterborough-on-obituary.jpg</guid>
+        </item>
+        <item>
+            <title>Janice and Norma 2025 at Fiddlestix pracrice</title>
+            <link>slides/2025-10Janice%2C%20Norma%202025-10%20at%20Fiddlestix.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2025-10Janice%2C%20Norma%202025-10%20at%20Fiddlestix.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2025-10Janice%2C%20Norma%202025-10%20at%20Fiddlestix.jpg" width="1065" height="800"/>
+            <jalbum:exif originalDate="Tue, 28 Oct 2025 20:22:56 -0400" cameraMake="Apple" cameraModel="iPhone SE (2nd generation)"/>
+            <guid isPermaLink="false">slides/2025-10Janice%2C%20Norma%202025-10%20at%20Fiddlestix.jpg</guid>
+        </item>
+    </channel>
+</rss>

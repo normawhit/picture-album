@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2005</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="BabyNicholasMarch19_2005/album.rss" title="Baby Nicholas March 19" thumbnail="BabyNicholasMarch19_2005/thumbs/01newbornviv%20Nicholas%20close%20up.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="FamilyJan2005/album.rss" title="Family Jan 2005" thumbnail="FamilyJan2005/thumbs/01Skyedressup.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="FamilyOttawaNov2005/album.rss" title="Family Ottawa Nov 2005" thumbnail="FamilyOttawaNov2005/thumbs/02Skyedrivingorientalexpress.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="KvildaSkiHolidayChechRep2005/album.rss" title="KVida Ski Holiday, Check Republic 2005" thumbnail="KvildaSkiHolidayChechRep2005/thumbs/19shelterbesidegarage.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="ScenesFromMunich2005/album.rss" title="Scenes from Muich 2005" thumbnail="ScenesFromMunich2005/thumbs/01floodingsept05flaucherbridgedownstream.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

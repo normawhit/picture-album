@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Vivian family</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Noel birthday</title>
+            <link>slides/noelBirthday12.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/noelBirthday12.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/noelBirthday12.png" width="1062" height="800"/>
+            <guid isPermaLink="false">slides/noelBirthday12.png</guid>
+        </item>
+        <item>
+            <title>Skye and Snowball</title>
+            <link>slides/Skye%20and%20Snowball.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Skye%20and%20Snowball.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Skye%20and%20Snowball.jpg" width="597" height="800"/>
+            <guid isPermaLink="false">slides/Skye%20and%20Snowball.jpg</guid>
+        </item>
+        <item>
+            <title>Skye is 18</title>
+            <link>slides/Skye%20is%2018.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Skye%20is%2018.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Skye%20is%2018.png" width="942" height="638"/>
+            <guid isPermaLink="false">slides/Skye%20is%2018.png</guid>
+        </item>
+        <item>
+            <title>Vivian and Silvia, swim in river</title>
+            <link>slides/Vivian%20-%20Silvia%20after%20swim%20in%20river.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Vivian%20-%20Silvia%20after%20swim%20in%20river.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Vivian%20-%20Silvia%20after%20swim%20in%20river.png" width="655" height="800"/>
+            <guid isPermaLink="false">slides/Vivian%20-%20Silvia%20after%20swim%20in%20river.png</guid>
+        </item>
+        <item>
+            <title>Silvia planting seeds</title>
+            <link>slides/silviaPlantingSeeds.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/silviaPlantingSeeds.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/silviaPlantingSeeds.jpg" width="432" height="576"/>
+            <guid isPermaLink="false">slides/silviaPlantingSeeds.jpg</guid>
+        </item>
+        <item>
+            <title>Silvia with zuccini</title>
+            <link>slides/Silvia%20with%20aubergines.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Silvia%20with%20aubergines.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Silvia%20with%20aubergines.png" width="586" height="800"/>
+            <guid isPermaLink="false">slides/Silvia%20with%20aubergines.png</guid>
+        </item>
+        <item>
+            <title>Happy couple</title>
+            <link>slides/HappyCouple.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/HappyCouple.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/HappyCouple.jpg" width="960" height="720"/>
+            <guid isPermaLink="false">slides/HappyCouple.jpg</guid>
+        </item>
+        <item>
+            <title>Noel with beans</title>
+            <link>slides/Noel%20with%20beans.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Noel%20with%20beans.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Noel%20with%20beans.png" width="615" height="800"/>
+            <guid isPermaLink="false">slides/Noel%20with%20beans.png</guid>
+        </item>
+        <item>
+            <title>Noel and Silvia</title>
+            <link>slides/Noel%20and%20Silvia.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Noel%20and%20Silvia.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Noel%20and%20Silvia.png" width="623" height="800"/>
+            <guid isPermaLink="false">slides/Noel%20and%20Silvia.png</guid>
+        </item>
+        <item>
+            <title>Silvia with lego</title>
+            <link>slides/silvia%20with%20Lego.html</link>
+            <pubDate>Sun, 16 Aug 2026 16:24:25 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/silvia%20with%20Lego.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/silvia%20with%20Lego.png" width="1052" height="789"/>
+            <guid isPermaLink="false">slides/silvia%20with%20Lego.png</guid>
+        </item>
+        <item>
+            <title>Young harvesters with sour cherries</title>
+            <link>slides/Young%20harvesters%20with%20sour%20cherries.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Young%20harvesters%20with%20sour%20cherries.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Young%20harvesters%20with%20sour%20cherries.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/Young%20harvesters%20with%20sour%20cherries.jpg</guid>
+        </item>
+        <item>
+            <title>Young foragers</title>
+            <link>slides/Young%20foragers.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Young%20foragers.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Young%20foragers.png" width="612" height="800"/>
+            <guid isPermaLink="false">slides/Young%20foragers.png</guid>
+        </item>
+        <item>
+            <title>Family by river</title>
+            <link>slides/family%20by%20river.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/family%20by%20river.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/family%20by%20river.png" width="1052" height="789"/>
+            <guid isPermaLink="false">slides/family%20by%20river.png</guid>
+        </item>
+        <item>
+            <title>Christmas 2020</title>
+            <link>slides/Christmas2020.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Christmas2020.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Christmas2020.png" width="825" height="800"/>
+            <guid isPermaLink="false">slides/Christmas2020.png</guid>
+        </item>
+        <item>
+            <title>Noel likes pasta</title>
+            <link>slides/Noel%20with%20pasta.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Noel%20with%20pasta.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Noel%20with%20pasta.png" width="688" height="708"/>
+            <guid isPermaLink="false">slides/Noel%20with%20pasta.png</guid>
+        </item>
+        <item>
+            <title>Jodi with gang by river</title>
+            <link>slides/Jordi%20with%20gang%20by%20river.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Jordi%20with%20gang%20by%20river.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Jordi%20with%20gang%20by%20river.png" width="670" height="497"/>
+            <guid isPermaLink="false">slides/Jordi%20with%20gang%20by%20river.png</guid>
+        </item>
+        <item>
+            <title>Christmas tree kids</title>
+            <link>slides/Christmas%20tree%20kids.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Christmas%20tree%20kids.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Christmas%20tree%20kids.png" width="674" height="508"/>
+            <guid isPermaLink="false">slides/Christmas%20tree%20kids.png</guid>
+        </item>
+        <item>
+            <title>Cabot trail 2023</title>
+            <link>slides/CabotTrail2023.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CabotTrail2023.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/CabotTrail2023.png" width="680" height="505"/>
+            <guid isPermaLink="false">slides/CabotTrail2023.png</guid>
+        </item>
+        <item>
+            <title>Happy couple</title>
+            <link>slides/Screenshot%202023-06-21%20at%2011.41.59%20AM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202023-06-21%20at%2011.41.59%20AM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202023-06-21%20at%2011.41.59%20AM.png" width="822" height="617"/>
+            <guid isPermaLink="false">slides/Screenshot%202023-06-21%20at%2011.41.59%20AM.png</guid>
+        </item>
+        <item>
+            <title>Vivian and Skye checking on bald eagles</title>
+            <link>slides/Screenshot%202023-08-14%20at%205.42.13%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202023-08-14%20at%205.42.13%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202023-08-14%20at%205.42.13%20PM.png" width="681" height="701"/>
+            <guid isPermaLink="false">slides/Screenshot%202023-08-14%20at%205.42.13%20PM.png</guid>
+        </item>
+        <item>
+            <title>Vivian and Skye</title>
+            <link>slides/Screenshot%202024-05-08%20at%206.55.49%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202024-05-08%20at%206.55.49%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202024-05-08%20at%206.55.49%20PM.png" width="858" height="679"/>
+            <guid isPermaLink="false">slides/Screenshot%202024-05-08%20at%206.55.49%20PM.png</guid>
+        </item>
+        <item>
+            <title>Skye with graduate Silvia</title>
+            <link>slides/Screenshot%202024-06-21%20at%205.59.08%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202024-06-21%20at%205.59.08%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202024-06-21%20at%205.59.08%20PM.png" width="659" height="523"/>
+            <guid isPermaLink="false">slides/Screenshot%202024-06-21%20at%205.59.08%20PM.png</guid>
+        </item>
+        <item>
+            <title>Offenders</title>
+            <link>slides/Screenshot%202024-06-22%20at%203.39.43%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202024-06-22%20at%203.39.43%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202024-06-22%20at%203.39.43%20PM.png" width="926" height="695"/>
+            <guid isPermaLink="false">slides/Screenshot%202024-06-22%20at%203.39.43%20PM.png</guid>
+        </item>
+        <item>
+            <title>Happy couple again</title>
+            <link>slides/Screenshot%202024-08-03%20at%204.27.56%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202024-08-03%20at%204.27.56%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202024-08-03%20at%204.27.56%20PM.png" width="625" height="458"/>
+            <guid isPermaLink="false">slides/Screenshot%202024-08-03%20at%204.27.56%20PM.png</guid>
+        </item>
+        <item>
+            <title>three in a boat</title>
+            <link>slides/Screenshot%202024-09-26%20at%206.06.01%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202024-09-26%20at%206.06.01%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202024-09-26%20at%206.06.01%20PM.png" width="567" height="289"/>
+            <guid isPermaLink="false">slides/Screenshot%202024-09-26%20at%206.06.01%20PM.png</guid>
+        </item>
+        <item>
+            <title>Vivian and Silvia</title>
+            <link>slides/Screenshot%202025-04-10%20at%201.58.24%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202025-04-10%20at%201.58.24%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202025-04-10%20at%201.58.24%20PM.png" width="690" height="743"/>
+            <guid isPermaLink="false">slides/Screenshot%202025-04-10%20at%201.58.24%20PM.png</guid>
+        </item>
+        <item>
+            <title>Cabot trail 2025</title>
+            <link>slides/CabotTrail2025.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CabotTrail2025.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CabotTrail2025.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/CabotTrail2025.jpg</guid>
+        </item>
+        <item>
+            <title>Skye graduation 2025</title>
+            <link>slides/Skye%20Graduation2025.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Skye%20Graduation2025.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Skye%20Graduation2025.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/Skye%20Graduation2025.jpg</guid>
+        </item>
+        <item>
+            <title>Off to a wedding</title>
+            <link>slides/Screenshot%202025-07-05%20at%2010.39.50%20PM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202025-07-05%20at%2010.39.50%20PM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202025-07-05%20at%2010.39.50%20PM.png" width="605" height="800"/>
+            <guid isPermaLink="false">slides/Screenshot%202025-07-05%20at%2010.39.50%20PM.png</guid>
+        </item>
+    </channel>
+</rss>

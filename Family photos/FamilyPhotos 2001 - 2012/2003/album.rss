@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2003</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="FamilyOttawaMarch2003/album.rss" title="Family in Ottawa 2003" thumbnail="FamilyOttawaMarch2003/thumbs/01zacharynSkyein%20buggy.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PertisauJuly2003/album.rss" title="Pertisau 2003" thumbnail="PertisauJuly2003/thumbs/07rofanfromzwoelferkopf.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

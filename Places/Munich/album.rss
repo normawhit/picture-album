@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Munich</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Beautiful Walk</title>
+            <link>slides/Beautiful%20Wlak.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Beautiful%20Wlak.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Beautiful%20Wlak.jpeg" width="581" height="800"/>
+            <guid isPermaLink="false">slides/Beautiful%20Wlak.jpeg</guid>
+        </item>
+        <item>
+            <title>Lunch on Beautiful Walk</title>
+            <link>slides/Lunch%20Beautiful%20Walk.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Lunch%20Beautiful%20Walk.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Lunch%20Beautiful%20Walk.jpeg" width="1098" height="800"/>
+            <guid isPermaLink="false">slides/Lunch%20Beautiful%20Walk.jpeg</guid>
+        </item>
+        <item>
+            <title>Ski trip</title>
+            <link>slides/Ski%20trip.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ski%20trip.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Ski%20trip.jpeg" width="1200" height="800"/>
+            <guid isPermaLink="false">slides/Ski%20trip.jpeg</guid>
+        </item>
+        <item>
+            <title>Coutry Walk</title>
+            <link>slides/CountryWalk.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CountryWalk.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/CountryWalk.jpeg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Thu, 18 Jan 2024 15:47:34 -0500" cameraMake="samsung" cameraModel="SM-G973F"/>
+            <guid isPermaLink="false">slides/CountryWalk.jpeg</guid>
+        </item>
+    </channel>
+</rss>

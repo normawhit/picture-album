@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Family 2010</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Dr Vivian</title>
+            <link>slides/dr%20Vivian.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dr%20Vivian.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/dr%20Vivian.jpg" width="563" height="800"/>
+            <guid isPermaLink="false">slides/dr%20Vivian.jpg</guid>
+        </item>
+        <item>
+            <title>Nicholas Daycare</title>
+            <link>slides/nicbdaycandlessuccess.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nicbdaycandlessuccess.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/nicbdaycandlessuccess.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 19 Mar 2010 11:38:38 -0400" cameraMake="FUJIFILM" cameraModel="FinePix S5500  "/>
+            <guid isPermaLink="false">slides/nicbdaycandlessuccess.jpg</guid>
+        </item>
+        <item>
+            <title>Skye is 9 years old!</title>
+            <link>slides/Skye%202010-9yrold.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Skye%202010-9yrold.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Skye%202010-9yrold.jpg" width="533" height="800"/>
+            <jalbum:exif originalDate="Sun, 05 Dec 2010 13:19:59 -0500" cameraMake="Canon" cameraModel="Canon EOS 50D"/>
+            <guid isPermaLink="false">slides/Skye%202010-9yrold.jpg</guid>
+        </item>
+    </channel>
+</rss>

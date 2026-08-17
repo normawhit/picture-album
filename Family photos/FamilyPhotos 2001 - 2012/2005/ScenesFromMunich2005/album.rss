@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Scenes from Muich 2005</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>01floodingsept05flaucherbridgedownstream</title>
+            <link>slides/01floodingsept05flaucherbridgedownstream.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01floodingsept05flaucherbridgedownstream.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01floodingsept05flaucherbridgedownstream.jpg" width="900" height="506"/>
+            <guid isPermaLink="false">slides/01floodingsept05flaucherbridgedownstream.jpg</guid>
+        </item>
+        <item>
+            <title>Fallen Santa at Mariahilfplatz</title>
+            <link>slides/08fallensantamariahilfsplatz.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08fallensantamariahilfsplatz.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/08fallensantamariahilfsplatz.jpg" width="860" height="450"/>
+            <guid isPermaLink="false">slides/08fallensantamariahilfsplatz.jpg</guid>
+        </item>
+        <item>
+            <title>Christkindlmarkt, Rosenheimplatz</title>
+            <link>slides/09christkindlmarktrosenheimerplatz.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/09christkindlmarktrosenheimerplatz.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/09christkindlmarktrosenheimerplatz.jpg" width="1024" height="576"/>
+            <guid isPermaLink="false">slides/09christkindlmarktrosenheimerplatz.jpg</guid>
+        </item>
+        <item>
+            <title>Yellow postman Christmas 2005</title>
+            <link>slides/10xmas05yellowpostieau.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10xmas05yellowpostieau.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/10xmas05yellowpostieau.jpg" width="591" height="574"/>
+            <guid isPermaLink="false">slides/10xmas05yellowpostieau.jpg</guid>
+        </item>
+        <item>
+            <title>Flooding by Flaucher Bridge, sept 05, looking upsteam</title>
+            <link>slides/02floodingsept05flaucherbridgeupstream.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02floodingsept05flaucherbridgeupstream.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02floodingsept05flaucherbridgeupstream.jpg" width="900" height="506"/>
+            <guid isPermaLink="false">slides/02floodingsept05flaucherbridgeupstream.jpg</guid>
+        </item>
+        <item>
+            <title>Flooding Deutshes Museum</title>
+            <link>slides/03floodingsept05deutschesmuseum.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03floodingsept05deutschesmuseum.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03floodingsept05deutschesmuseum.jpg" width="900" height="506"/>
+            <guid isPermaLink="false">slides/03floodingsept05deutschesmuseum.jpg</guid>
+        </item>
+        <item>
+            <title>Looking east from balcony</title>
+            <link>slides/04nov05frombalconyeast.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04nov05frombalconyeast.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04nov05frombalconyeast.jpg" width="928" height="512"/>
+            <guid isPermaLink="false">slides/04nov05frombalconyeast.jpg</guid>
+        </item>
+        <item>
+            <title>Lion at Mariahilfsplaz</title>
+            <link>slides/05lionnearmariahilfsplatz.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05lionnearmariahilfsplatz.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05lionnearmariahilfsplatz.jpg" width="385" height="651"/>
+            <guid isPermaLink="false">slides/05lionnearmariahilfsplatz.jpg</guid>
+        </item>
+        <item>
+            <title>Santa at Mariahilfsplaz</title>
+            <link>slides/06santamariahilfsplatz.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06santamariahilfsplatz.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06santamariahilfsplatz.jpg" width="516" height="481"/>
+            <guid isPermaLink="false">slides/06santamariahilfsplatz.jpg</guid>
+        </item>
+        <item>
+            <title>Santa at Mariahilfsplaz</title>
+            <link>slides/07fullsantamariahilfplatz.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07fullsantamariahilfplatz.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/07fullsantamariahilfplatz.jpg" width="691" height="528"/>
+            <guid isPermaLink="false">slides/07fullsantamariahilfplatz.jpg</guid>
+        </item>
+    </channel>
+</rss>

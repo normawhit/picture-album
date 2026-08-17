@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>FamilyOttawaJune04</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Zachary on bars</title>
+            <link>slides/13zacharybars.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13zacharybars.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/13zacharybars.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/13zacharybars.jpg</guid>
+        </item>
+        <item>
+            <title>Zachary and Glen on bars</title>
+            <link>slides/14zacharyglennbars.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14zacharyglennbars.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/14zacharyglennbars.jpg" width="450" height="800"/>
+            <guid isPermaLink="false">slides/14zacharyglennbars.jpg</guid>
+        </item>
+        <item>
+            <title>Vivian &amp; Skye inplayground</title>
+            <link>slides/15VivianSkyeplayground.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15VivianSkyeplayground.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/15VivianSkyeplayground.jpg" width="640" height="360"/>
+            <guid isPermaLink="false">slides/15VivianSkyeplayground.jpg</guid>
+        </item>
+        <item>
+            <title>Zachary Spiderman</title>
+            <link>slides/05zacharyspiderman.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05zacharyspiderman.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05zacharyspiderman.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/05zacharyspiderman.jpg</guid>
+        </item>
+        <item>
+            <title>In action</title>
+            <link>slides/06spidermaninaction.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06spidermaninaction.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06spidermaninaction.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/06spidermaninaction.jpg</guid>
+        </item>
+        <item>
+            <title>Skye with watermelon</title>
+            <link>slides/07Skyewatermelon.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07Skyewatermelon.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/07Skyewatermelon.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/07Skyewatermelon.jpg</guid>
+        </item>
+        <item>
+            <title>Candy shop</title>
+            <link>slides/09candyshop.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/09candyshop.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/09candyshop.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/09candyshop.jpg</guid>
+        </item>
+        <item>
+            <title>Vivian and friend with Skye</title>
+            <link>slides/10vivfriendSkye.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10vivfriendSkye.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/10vivfriendSkye.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/10vivfriendSkye.jpg</guid>
+        </item>
+        <item>
+            <title>Ottawa Triathlon</title>
+            <link>slides/11ottawatriathlon.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11ottawatriathlon.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/11ottawatriathlon.jpg" width="640" height="360"/>
+            <guid isPermaLink="false">slides/11ottawatriathlon.jpg</guid>
+        </item>
+        <item>
+            <title>Skye in pool</title>
+            <link>slides/12Skyeinpool.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12Skyeinpool.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/12Skyeinpool.jpg" width="640" height="360"/>
+            <guid isPermaLink="false">slides/12Skyeinpool.jpg</guid>
+        </item>
+    </channel>
+</rss>

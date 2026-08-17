@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Sandra family</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Be kind to you parents</title>
+            <link>slides/Emma%20sings_%20Be%20Kind%20to%20Your%20Parents.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Emma%20sings_%20Be%20Kind%20to%20Your%20Parents.jpg" width="124" height="124"/>
+            <media:content  url="slides/Emma%20sings_%20Be%20Kind%20to%20Your%20Parents.mp4" width="1200" height="675"/>
+            <jalbum:original url="slides/Emma%20sings_%20Be%20Kind%20to%20Your%20Parents.mp4" width="1280" height="720" fileSize="32150860"/>
+            <guid isPermaLink="false">slides/Emma%20sings_%20Be%20Kind%20to%20Your%20Parents.jpg</guid>
+        </item>
+        <item>
+            <title>Emma and Norma May 2017</title>
+            <link>slides/Emma%20-%20Norma%20May%202017.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Emma%20-%20Norma%20May%202017.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Emma%20-%20Norma%20May%202017.png" width="600" height="800"/>
+            <guid isPermaLink="false">slides/Emma%20-%20Norma%20May%202017.png</guid>
+        </item>
+        <item>
+            <title>Sandra</title>
+            <link>slides/Screenshot%202023-06-21%20at%2011.46.19%20AM.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Screenshot%202023-06-21%20at%2011.46.19%20AM.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Screenshot%202023-06-21%20at%2011.46.19%20AM.png" width="797" height="800"/>
+            <guid isPermaLink="false">slides/Screenshot%202023-06-21%20at%2011.46.19%20AM.png</guid>
+        </item>
+    </channel>
+</rss>

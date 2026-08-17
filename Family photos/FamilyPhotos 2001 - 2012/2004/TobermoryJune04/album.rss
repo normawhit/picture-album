@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Tobermory June</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Tobermory harbour</title>
+            <link>slides/11tobermoryharbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11tobermoryharbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/11tobermoryharbour.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/11tobermoryharbour.jpg</guid>
+        </item>
+        <item>
+            <title>Tub Harbour</title>
+            <link>slides/12tobermorytubharbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12tobermorytubharbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/12tobermorytubharbour.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/12tobermorytubharbour.jpg</guid>
+        </item>
+        <item>
+            <title>Tub Harbour</title>
+            <link>slides/13tubharbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13tubharbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/13tubharbour.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/13tubharbour.jpg</guid>
+        </item>
+        <item>
+            <title>Lighthouse at Tub Harbour</title>
+            <link>slides/14lighthousetubh.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14lighthousetubh.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/14lighthousetubh.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/14lighthousetubh.jpg</guid>
+        </item>
+        <item>
+            <title>Flower Potfrom boat</title>
+            <link>slides/15flowerpotfromboat.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15flowerpotfromboat.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/15flowerpotfromboat.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/15flowerpotfromboat.jpg</guid>
+        </item>
+        <item>
+            <title>Flowerpots</title>
+            <link>slides/16flowerpots.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16flowerpots.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/16flowerpots.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/16flowerpots.jpg</guid>
+        </item>
+        <item>
+            <title>Closer to flowerpots</title>
+            <link>slides/17flowerpotclose.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17flowerpotclose.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/17flowerpotclose.jpg" width="431" height="767"/>
+            <guid isPermaLink="false">slides/17flowerpotclose.jpg</guid>
+        </item>
+        <item>
+            <title>Flowerpots again</title>
+            <link>slides/19flowerpot.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19flowerpot.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/19flowerpot.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/19flowerpot.jpg</guid>
+        </item>
+        <item>
+            <title>Flowerpot land</title>
+            <link>slides/20flowewpotland.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20flowewpotland.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20flowewpotland.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/20flowewpotland.jpg</guid>
+        </item>
+        <item>
+            <title>Norma by flowerpot</title>
+            <link>slides/21Normaflowerpot.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21Normaflowerpot.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/21Normaflowerpot.jpg" width="431" height="767"/>
+            <guid isPermaLink="false">slides/21Normaflowerpot.jpg</guid>
+        </item>
+        <item>
+            <title>Flowerpot Island map</title>
+            <link>slides/22mapflowerpotisland.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22mapflowerpotisland.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/22mapflowerpotisland.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/22mapflowerpotisland.jpg</guid>
+        </item>
+        <item>
+            <title>Geese in sunset</title>
+            <link>slides/24geeseinsunset.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/24geeseinsunset.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/24geeseinsunset.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/24geeseinsunset.jpg</guid>
+        </item>
+        <item>
+            <title>closer to geese</title>
+            <link>slides/25geeseclose.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25geeseclose.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/25geeseclose.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/25geeseclose.jpg</guid>
+        </item>
+        <item>
+            <title>Our little cottage</title>
+            <link>slides/26ourlittlecottage.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/26ourlittlecottage.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/26ourlittlecottage.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/26ourlittlecottage.jpg</guid>
+        </item>
+        <item>
+            <title>More cottages</title>
+            <link>slides/27morecottages.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/27morecottages.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/27morecottages.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/27morecottages.jpg</guid>
+        </item>
+        <item>
+            <title>View from wireless Tobermory</title>
+            <link>slides/28viewfromwirelesstotobermory.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28viewfromwirelesstotobermory.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/28viewfromwirelesstotobermory.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/28viewfromwirelesstotobermory.jpg</guid>
+        </item>
+        <item>
+            <title>from Wireless Bay</title>
+            <link>slides/30viewoutfromwirelessbay.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/30viewoutfromwirelessbay.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/30viewoutfromwirelessbay.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/30viewoutfromwirelessbay.jpg</guid>
+        </item>
+        <item>
+            <title>many cottage at Wireless Bay</title>
+            <link>slides/31manycottageswirelessbay.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/31manycottageswirelessbay.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/31manycottageswirelessbay.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/31manycottageswirelessbay.jpg</guid>
+        </item>
+        <item>
+            <title>Office at Wireless Bay</title>
+            <link>slides/32officewirelessbay.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/32officewirelessbay.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/32officewirelessbay.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/32officewirelessbay.jpg</guid>
+        </item>
+        <item>
+            <title>Pitcher plants</title>
+            <link>slides/33pitcherplants.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/33pitcherplants.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/33pitcherplants.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/33pitcherplants.jpg</guid>
+        </item>
+        <item>
+            <title>Pitcher plants</title>
+            <link>slides/34pitcheplant.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/34pitcheplant.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/34pitcheplant.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/34pitcheplant.jpg</guid>
+        </item>
+        <item>
+            <title>Path by pitcher plants</title>
+            <link>slides/35pathbypitcherplants.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/35pathbypitcherplants.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/35pathbypitcherplants.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/35pathbypitcherplants.jpg</guid>
+        </item>
+        <item>
+            <title>Low tide at Singing Sands</title>
+            <link>slides/36lowtideatsingingsands.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/36lowtideatsingingsands.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/36lowtideatsingingsands.jpg" width="767" height="431"/>
+            <guid isPermaLink="false">slides/36lowtideatsingingsands.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>HeraklionC</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Loutro, Hotels in the bay</title>
+            <link>slides/1.Loutro%2C%20Hotels%20in%20the%20bay.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Loutro%2C%20Hotels%20in%20the%20bay.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Loutro%2C%20Hotels%20in%20the%20bay.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/1.Loutro%2C%20Hotels%20in%20the%20bay.jpg</guid>
+        </item>
+        <item>
+            <title>2.Loutro Harbour</title>
+            <link>slides/2.Loutro%20Harbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Loutro%20Harbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Loutro%20Harbour.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Loutro%20Harbour.jpg</guid>
+        </item>
+        <item>
+            <title>3.Loutro Hotels</title>
+            <link>slides/3.Loutro%20Hotels.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Loutro%20Hotels.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Loutro%20Hotels.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Loutro%20Hotels.jpg</guid>
+        </item>
+        <item>
+            <title>4.Strange garbage stop</title>
+            <link>slides/4.Strange%20garbage%20stop.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Strange%20garbage%20stop.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Strange%20garbage%20stop.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Strange%20garbage%20stop.jpg</guid>
+        </item>
+        <item>
+            <title>5.Garbage truck leaves boat</title>
+            <link>slides/5.Garbage%20truck%20leaves%20boat.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Garbage%20truck%20leaves%20boat.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Garbage%20truck%20leaves%20boat.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Garbage%20truck%20leaves%20boat.jpg</guid>
+        </item>
+    </channel>
+</rss>

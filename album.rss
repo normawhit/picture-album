@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Picture album</title>
+   	<link>.</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Family%20photos/album.rss" title="Family photos" thumbnail="Family%20photos/Family2013-14/thumbs/EmmaAug2013.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Historic/album.rss" title="Historic" thumbnail="Historic/thumbs/Norma%20-%20baby%20vivian.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Mabels%20Album/album.rss" title="Mabels Album" thumbnail="Mabels%20Album/thumbs/Me-Dad.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Music%20groups/album.rss" title="Music groups" thumbnail="Music%20groups/Fiddlestix/thumbs/Screenshot%202023-05-21%20at%205.59.37%20PM.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Photos%20for%20Kenneth/album.rss" title="Photos for Kenneth" thumbnail="Photos%20for%20Kenneth/thumbs/2008-10-07%2019%20img%201106%20canopy%20walk%20-%20Keith%20%20Norma.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Places/album.rss" title="Places" thumbnail="Places/Blue%20Sea%202021/thumbs/Boys.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Various%20Holidays/album.rss" title="Various Holidays" thumbnail="Various%20Holidays/2002%20CiqueTerra%20withExtras%20from%20later%20year/thumbs/00PortoVenereHotelBelvedereBalcony2002.09.15.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>HeraklionE</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1.Sunset Taverna, Salt Cedar</title>
+            <link>slides/1.Sunset%20Taverna%2C%20Salt%20Cedar.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.Sunset%20Taverna%2C%20Salt%20Cedar.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1.Sunset%20Taverna%2C%20Salt%20Cedar.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/1.Sunset%20Taverna%2C%20Salt%20Cedar.jpg</guid>
+        </item>
+        <item>
+            <title>2.Rethymno, Sunset Taverna</title>
+            <link>slides/2.Rethymno%2C%20Sunset%20Taverna.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.Rethymno%2C%20Sunset%20Taverna.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2.Rethymno%2C%20Sunset%20Taverna.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/2.Rethymno%2C%20Sunset%20Taverna.jpg</guid>
+        </item>
+        <item>
+            <title>3.Sunset Taverna, Castle above</title>
+            <link>slides/3.Sunset%20Taverna%2C%20Castle%20above.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.Sunset%20Taverna%2C%20Castle%20above.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/3.Sunset%20Taverna%2C%20Castle%20above.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/3.Sunset%20Taverna%2C%20Castle%20above.jpg</guid>
+        </item>
+        <item>
+            <title>4.Rethymno, old town</title>
+            <link>slides/4.Rethymno%2C%20old%20town.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.Rethymno%2C%20old%20town.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4.Rethymno%2C%20old%20town.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/4.Rethymno%2C%20old%20town.jpg</guid>
+        </item>
+        <item>
+            <title>5.Rethymno, old town</title>
+            <link>slides/5.Rethymno%2C%20old%20town.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.Rethymno%2C%20old%20town.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5.Rethymno%2C%20old%20town.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/5.Rethymno%2C%20old%20town.jpg</guid>
+        </item>
+        <item>
+            <title>6.Rethymno, old town</title>
+            <link>slides/6.Rethymno%2C%20old%20town.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.Rethymno%2C%20old%20town.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/6.Rethymno%2C%20old%20town.jpg" width="800" height="450"/>
+            <guid isPermaLink="false">slides/6.Rethymno%2C%20old%20town.jpg</guid>
+        </item>
+    </channel>
+</rss>

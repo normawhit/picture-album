@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>England 2003</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Manor Inn</title>
+            <link>slides/01ManorInn.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01ManorInn.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01ManorInn.jpg" width="600" height="358"/>
+            <guid isPermaLink="false">slides/01ManorInn.jpg</guid>
+        </item>
+        <item>
+            <title>St Michael&apos;s</title>
+            <link>slides/02StMichaels.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02StMichaels.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02StMichaels.jpg" width="600" height="314"/>
+            <guid isPermaLink="false">slides/02StMichaels.jpg</guid>
+        </item>
+        <item>
+            <title>Hornby Castle</title>
+            <link>slides/03hornbyCastle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03hornbyCastle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03hornbyCastle.jpg" width="600" height="410"/>
+            <guid isPermaLink="false">slides/03hornbyCastle.jpg</guid>
+        </item>
+        <item>
+            <title>Wray</title>
+            <link>slides/04Wray.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04Wray.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04Wray.jpg" width="600" height="410"/>
+            <guid isPermaLink="false">slides/04Wray.jpg</guid>
+        </item>
+        <item>
+            <title>Approaching Hirst Green</title>
+            <link>slides/05ApproachHirstGreen.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05ApproachHirstGreen.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/05ApproachHirstGreen.jpg" width="640" height="441"/>
+            <guid isPermaLink="false">slides/05ApproachHirstGreen.jpg</guid>
+        </item>
+        <item>
+            <title>Countryside</title>
+            <link>slides/06Countryside.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06Countryside.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/06Countryside.jpg" width="600" height="338"/>
+            <guid isPermaLink="false">slides/06Countryside.jpg</guid>
+        </item>
+        <item>
+            <title>Tom, Margaret and Norma</title>
+            <link>slides/07TomMargaretNorma.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07TomMargaretNorma.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/07TomMargaretNorma.jpg" width="640" height="361"/>
+            <guid isPermaLink="false">slides/07TomMargaretNorma.jpg</guid>
+        </item>
+        <item>
+            <title>Hadrian&apos;s Wall</title>
+            <link>slides/08HadriansWall.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08HadriansWall.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/08HadriansWall.jpg" width="550" height="308"/>
+            <guid isPermaLink="false">slides/08HadriansWall.jpg</guid>
+        </item>
+        <item>
+            <title>Hollie&apos;s</title>
+            <link>slides/09Hollies.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/09Hollies.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/09Hollies.jpg" width="550" height="312"/>
+            <guid isPermaLink="false">slides/09Hollies.jpg</guid>
+        </item>
+        <item>
+            <title>Lindisfarne, Priory Castle</title>
+            <link>slides/10LindisfarnePrioryCastle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10LindisfarnePrioryCastle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/10LindisfarnePrioryCastle.jpg" width="640" height="361"/>
+            <guid isPermaLink="false">slides/10LindisfarnePrioryCastle.jpg</guid>
+        </item>
+        <item>
+            <title>Navigation AIds</title>
+            <link>slides/11NavigationAids.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11NavigationAids.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/11NavigationAids.jpg" width="500" height="282"/>
+            <guid isPermaLink="false">slides/11NavigationAids.jpg</guid>
+        </item>
+        <item>
+            <title>Priory Village behind</title>
+            <link>slides/12PrioryVillageBehind.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12PrioryVillageBehind.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/12PrioryVillageBehind.jpg" width="550" height="310"/>
+            <guid isPermaLink="false">slides/12PrioryVillageBehind.jpg</guid>
+        </item>
+        <item>
+            <title>Lind Harbour Catle</title>
+            <link>slides/13LindHarbourCastle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13LindHarbourCastle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/13LindHarbourCastle.jpg" width="550" height="310"/>
+            <guid isPermaLink="false">slides/13LindHarbourCastle.jpg</guid>
+        </item>
+        <item>
+            <title>Sand Dunes, Keith</title>
+            <link>slides/14SandDunesKeith.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14SandDunesKeith.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/14SandDunesKeith.jpg" width="550" height="310"/>
+            <guid isPermaLink="false">slides/14SandDunesKeith.jpg</guid>
+        </item>
+        <item>
+            <title>Seahouses Harbour</title>
+            <link>slides/15SeahousesHarbour.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15SeahousesHarbour.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/15SeahousesHarbour.jpg" width="600" height="338"/>
+            <guid isPermaLink="false">slides/15SeahousesHarbour.jpg</guid>
+        </item>
+        <item>
+            <title>EIider duck</title>
+            <link>slides/16EiderDuck.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16EiderDuck.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/16EiderDuck.jpg" width="600" height="338"/>
+            <guid isPermaLink="false">slides/16EiderDuck.jpg</guid>
+        </item>
+        <item>
+            <title>Lighthouse, Longshore Island</title>
+            <link>slides/17LighthouseLongstoneIsland.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17LighthouseLongstoneIsland.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/17LighthouseLongstoneIsland.jpg" width="450" height="428"/>
+            <guid isPermaLink="false">slides/17LighthouseLongstoneIsland.jpg</guid>
+        </item>
+        <item>
+            <title>Bird colony</title>
+            <link>slides/18BirdColony.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18BirdColony.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/18BirdColony.jpg" width="698" height="442"/>
+            <guid isPermaLink="false">slides/18BirdColony.jpg</guid>
+        </item>
+        <item>
+            <title>Puffins galore</title>
+            <link>slides/19PuffinsGalore.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19PuffinsGalore.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/19PuffinsGalore.jpg" width="481" height="457"/>
+            <guid isPermaLink="false">slides/19PuffinsGalore.jpg</guid>
+        </item>
+        <item>
+            <title>Alnwick Castle</title>
+            <link>slides/20AlnwickCastle.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20AlnwickCastle.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20AlnwickCastle.jpg" width="869" height="559"/>
+            <guid isPermaLink="false">slides/20AlnwickCastle.jpg</guid>
+        </item>
+        <item>
+            <title>Cliff walk</title>
+            <link>slides/22CliffWalk.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22CliffWalk.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/22CliffWalk.jpg" width="835" height="471"/>
+            <guid isPermaLink="false">slides/22CliffWalk.jpg</guid>
+        </item>
+        <item>
+            <title>Daffodils</title>
+            <link>slides/23daffodils.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/23daffodils.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/23daffodils.jpg" width="560" height="292"/>
+            <guid isPermaLink="false">slides/23daffodils.jpg</guid>
+        </item>
+        <item>
+            <title>St Mary&apos;s lighthouse</title>
+            <link>slides/24StMarysLighthouse.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/24StMarysLighthouse.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/24StMarysLighthouse.jpg" width="459" height="587"/>
+            <guid isPermaLink="false">slides/24StMarysLighthouse.jpg</guid>
+        </item>
+        <item>
+            <title>Eider duck</title>
+            <link>slides/EIDER.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/EIDER.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/EIDER.JPG" width="600" height="387"/>
+            <guid isPermaLink="false">slides/EIDER.JPG</guid>
+        </item>
+        <item>
+            <title>Northumberland</title>
+            <link>slides/northumberland.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/northumberland.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/northumberland.jpg" width="413" height="600"/>
+            <guid isPermaLink="false">slides/northumberland.jpg</guid>
+        </item>
+        <item>
+            <title>Puffin</title>
+            <link>slides/PUFFIN.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PUFFIN.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PUFFIN.JPG" width="416" height="600"/>
+            <guid isPermaLink="false">slides/PUFFIN.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Blue Sea 2021</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Boys</title>
+            <link>slides/Boys.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Boys.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Boys.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/Boys.jpg</guid>
+        </item>
+        <item>
+            <title>Girls</title>
+            <link>slides/girls.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/girls.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/girls.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/girls.jpg</guid>
+        </item>
+        <item>
+            <title>Beach fire</title>
+            <link>slides/beach%20fire.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/beach%20fire.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/beach%20fire.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/beach%20fire.jpg</guid>
+        </item>
+    </channel>
+</rss>

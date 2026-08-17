@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Music groups</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Fiddlestix/album.rss" title="Fiddlestix" thumbnail="Fiddlestix/thumbs/Screenshot%202023-05-21%20at%205.59.37%20PM.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Hollow%20woods/album.rss" title="Hollow Woods" thumbnail="Hollow%20woods/thumbs/2025-10Halloween.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Mandolin/album.rss" title="Mandolin Society" thumbnail="Mandolin/thumbs/BlueHorse1.JPG" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="PNHB/album.rss" title="PNHB" thumbnail="PNHB/thumbs/playingBellsMusicLabSocial.JPG" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Rock%20Camp%20for%20Girla%202011-2012/album.rss" title="Rock Camp for Girls 2011-2012" thumbnail="Rock%20Camp%20for%20Girla%202011-2012/thumbs/peg.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>East Germany</title>
+   	<link>../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Barge</title>
+            <link>slides/Barge.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Barge.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Barge.jpg" width="640" height="464"/>
+            <guid isPermaLink="false">slides/Barge.jpg</guid>
+        </item>
+        <item>
+            <title>Bastei1</title>
+            <link>slides/Bastei1.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bastei1.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bastei1.jpg" width="400" height="278"/>
+            <guid isPermaLink="false">slides/Bastei1.jpg</guid>
+        </item>
+        <item>
+            <title>Bastei2</title>
+            <link>slides/Bastei2.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bastei2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bastei2.jpg" width="350" height="500"/>
+            <guid isPermaLink="false">slides/Bastei2.jpg</guid>
+        </item>
+        <item>
+            <title>Bastei3</title>
+            <link>slides/Bastei3.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bastei3.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bastei3.jpg" width="400" height="264"/>
+            <guid isPermaLink="false">slides/Bastei3.jpg</guid>
+        </item>
+        <item>
+            <title>Bastei4</title>
+            <link>slides/Bastei4.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bastei4.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bastei4.jpg" width="600" height="396"/>
+            <guid isPermaLink="false">slides/Bastei4.jpg</guid>
+        </item>
+        <item>
+            <title>Bastei5</title>
+            <link>slides/Bastei5.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bastei5.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bastei5.jpg" width="348" height="600"/>
+            <guid isPermaLink="false">slides/Bastei5.jpg</guid>
+        </item>
+        <item>
+            <title>Bastei5cropped</title>
+            <link>slides/Bastei5cropped.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bastei5cropped.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bastei5cropped.jpg" width="300" height="436"/>
+            <guid isPermaLink="false">slides/Bastei5cropped.jpg</guid>
+        </item>
+        <item>
+            <title>Bernd</title>
+            <link>slides/Bernd.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bernd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bernd.jpg" width="399" height="232"/>
+            <guid isPermaLink="false">slides/Bernd.jpg</guid>
+        </item>
+        <item>
+            <title>Hohnstein</title>
+            <link>slides/Hohnstein.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Hohnstein.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Hohnstein.jpg" width="550" height="370"/>
+            <guid isPermaLink="false">slides/Hohnstein.jpg</guid>
+        </item>
+        <item>
+            <title>Kahn</title>
+            <link>slides/Kahn.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Kahn.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Kahn.jpg" width="250" height="430"/>
+            <guid isPermaLink="false">slides/Kahn.jpg</guid>
+        </item>
+        <item>
+            <title>kartespree_obenlinks</title>
+            <link>slides/kartespree_obenlinks.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kartespree_obenlinks.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/kartespree_obenlinks.jpg" width="300" height="287"/>
+            <guid isPermaLink="false">slides/kartespree_obenlinks.jpg</guid>
+        </item>
+        <item>
+            <title>Keith</title>
+            <link>slides/Keith.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Keith.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Keith.jpg" width="250" height="312"/>
+            <guid isPermaLink="false">slides/Keith.jpg</guid>
+        </item>
+        <item>
+            <title>Kuhstall1</title>
+            <link>slides/Kuhstall1.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Kuhstall1.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Kuhstall1.jpg" width="600" height="417"/>
+            <guid isPermaLink="false">slides/Kuhstall1.jpg</guid>
+        </item>
+        <item>
+            <title>Kuhstall2</title>
+            <link>slides/Kuhstall2.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Kuhstall2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Kuhstall2.jpg" width="600" height="348"/>
+            <guid isPermaLink="false">slides/Kuhstall2.jpg</guid>
+        </item>
+        <item>
+            <title>Party</title>
+            <link>slides/Party.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Party.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Party.jpg" width="450" height="340"/>
+            <guid isPermaLink="false">slides/Party.jpg</guid>
+        </item>
+        <item>
+            <title>PrebischTor</title>
+            <link>slides/PrebischTor.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PrebischTor.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PrebischTor.jpg" width="600" height="417"/>
+            <guid isPermaLink="false">slides/PrebischTor.jpg</guid>
+        </item>
+        <item>
+            <title>Spreewald1</title>
+            <link>slides/Spreewald1.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Spreewald1.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Spreewald1.jpg" width="400" height="277"/>
+            <guid isPermaLink="false">slides/Spreewald1.jpg</guid>
+        </item>
+        <item>
+            <title>Spreewald2</title>
+            <link>slides/Spreewald2.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Spreewald2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Spreewald2.jpg" width="400" height="278"/>
+            <guid isPermaLink="false">slides/Spreewald2.jpg</guid>
+        </item>
+        <item>
+            <title>SS</title>
+            <link>slides/SS.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SS.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/SS.JPG" width="350" height="463"/>
+            <guid isPermaLink="false">slides/SS.JPG</guid>
+        </item>
+        <item>
+            <title>WilderKlamm</title>
+            <link>slides/WilderKlamm.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WilderKlamm.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/WilderKlamm.jpg" width="500" height="367"/>
+            <guid isPermaLink="false">slides/WilderKlamm.jpg</guid>
+        </item>
+    </channel>
+</rss>

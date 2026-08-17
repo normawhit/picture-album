@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2012</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="BabySilviaMay5_2012/album.rss" title="Baby Silvia" thumbnail="BabySilviaMay5_2012/thumbs/BabySilvia%2C%20May%205.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Family2012/album.rss" title="Family 2012" thumbnail="Family2012/thumbs/01NewBabySilvia%2C%20May%205.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="StocoLakeJuly2012/album.rss" title="Stocco Lake 2012" thumbnail="StocoLakeJuly2012/thumbs/01LakesideHolidaysFront.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

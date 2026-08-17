@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>RC4GRockSquad</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="becssg_images/album.rss" title="becssg_images" thumbnail="becssg_images/thumbs/Di_150_225_95.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="becssg_thumbs/album.rss" title="becssg_thumbs" thumbnail="becssg_thumbs/thumbs/Di_28_42_80.jpg" thumbnailWidth="28" thumbnailHeight="28" />
+        <item>
+            <title>Di</title>
+            <link>slides/Di.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Di.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Di.jpg" width="534" height="800"/>
+            <jalbum:exif originalDate="Sun, 23 Oct 2011 17:34:11 -0400" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/Di.jpg</guid>
+        </item>
+        <item>
+            <title>Jean</title>
+            <link>slides/Jean.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Jean.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Jean.jpg" width="1024" height="680"/>
+            <jalbum:exif originalDate="Sun, 23 Oct 2011 17:33:24 -0400" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/Jean.jpg</guid>
+        </item>
+        <item>
+            <title>peg</title>
+            <link>slides/peg.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/peg.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/peg.jpg" width="533" height="800"/>
+            <jalbum:exif originalDate="Sun, 23 Oct 2011 17:09:39 -0400" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/peg.jpg</guid>
+        </item>
+    </channel>
+</rss>

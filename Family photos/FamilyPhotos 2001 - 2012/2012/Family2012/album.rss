@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Family 2012</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>New baby Silvia</title>
+            <link>slides/01NewBabySilvia%2C%20May%205.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01NewBabySilvia%2C%20May%205.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/01NewBabySilvia%2C%20May%205.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 05 May 2012 16:33:02 -0400" cameraMake="FUJIFILM" cameraModel="FinePix S5500  "/>
+            <guid isPermaLink="false">slides/01NewBabySilvia%2C%20May%205.jpg</guid>
+        </item>
+        <item>
+            <title>Growing family</title>
+            <link>slides/02GrowingFamilyMay5.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02GrowingFamilyMay5.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/02GrowingFamilyMay5.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 05 May 2012 12:38:47 -0400" cameraMake="FUJIFILM" cameraModel="FinePix S5500  "/>
+            <guid isPermaLink="false">slides/02GrowingFamilyMay5.jpg</guid>
+        </item>
+        <item>
+            <title>Emma with snake</title>
+            <link>slides/03BraveEmmaWithSnakeMay.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03BraveEmmaWithSnakeMay.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/03BraveEmmaWithSnakeMay.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/03BraveEmmaWithSnakeMay.jpg</guid>
+        </item>
+        <item>
+            <title>Ballerina Emma July 2012</title>
+            <link>slides/04BallerinaEmmaRaeJuly.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04BallerinaEmmaRaeJuly.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/04BallerinaEmmaRaeJuly.jpg" width="533" height="800"/>
+            <jalbum:exif originalDate="Sat, 26 May 2012 10:06:59 -0400" cameraMake="Canon" cameraModel="Canon EOS 50D"/>
+            <guid isPermaLink="false">slides/04BallerinaEmmaRaeJuly.jpg</guid>
+        </item>
+    </channel>
+</rss>

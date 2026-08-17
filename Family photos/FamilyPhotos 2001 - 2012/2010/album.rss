@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2010</title>
+   	<link>../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="ArnsideLancaster2010/album.rss" title="Arnside and Lancaster 2010" thumbnail="ArnsideLancaster2010/thumbs/2010-04-22%2002%20dscf1641%20view%20from%20arnside%20knott.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Cambridge2010/album.rss" title="Cambridge 2010" thumbnail="Cambridge2010/thumbs/2010-05-02%2001%20dscf1655%20Cambridge%20-%20view%20from%20the%20anchor.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Family2010/album.rss" title="Family 2010" thumbnail="Family2010/thumbs/dr%20Vivian.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="ScotlandApril2010/album.rss" title="Scotland April2010" thumbnail="ScotlandApril2010/thumbs/2010-04-18%2001%20dscf1630%20ardkinglas%20gardens.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

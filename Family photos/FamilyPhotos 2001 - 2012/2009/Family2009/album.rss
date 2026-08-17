@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Family 2009</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Emma first school</title>
+            <link>slides/EmmaFirstSchoolPhoto.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/EmmaFirstSchoolPhoto.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/EmmaFirstSchoolPhoto.jpg" width="580" height="800"/>
+            <guid isPermaLink="false">slides/EmmaFirstSchoolPhoto.jpg</guid>
+        </item>
+    </channel>
+</rss>
