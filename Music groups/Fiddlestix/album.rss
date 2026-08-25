@@ -9,6 +9,17 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
+            <title>St Pat&apos;s DOuro 2023, Sally and Pam</title>
+            <link>slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.html</link>
+            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg</guid>
+        </item>
+        <item>
             <title>Group Spring concert 2023</title>
             <link>slides/Screenshot%202023-05-21%20at%205.59.37%20PM.html</link>
             <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
@@ -50,17 +61,6 @@
             <media:content type="image/jpeg" url="slides/2023%20May%20Norma%20at%20St%20Joseph.jpg" width="600" height="800"/>
             <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
             <guid isPermaLink="false">slides/2023%20May%20Norma%20at%20St%20Joseph.jpg</guid>
-        </item>
-        <item>
-            <title>St Pat&apos;s DOuro 2023, Sally and Pam</title>
-            <link>slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.html</link>
-            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" width="1067" height="800"/>
-            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
-            <guid isPermaLink="false">slides/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg</guid>
         </item>
         <item>
             <title>Devon Wilkins from obit 2025</title>

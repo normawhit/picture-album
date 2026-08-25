@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2007 - 2009</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2007/album.rss" title="2007" thumbnail="2007/AroundPeterborough2007/thumbs/13in%20lift%20lock.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2008/album.rss" title="2008" thumbnail="2008/Family2008/thumbs/2008-04-26Emma%20in%20basket.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2009/album.rss" title="2009" thumbnail="2009/BabyNoel/thumbs/00NoelInCarseat.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

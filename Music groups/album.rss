@@ -8,10 +8,12 @@
         <generator>jAlbum 39.7</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="Fiddlestix/album.rss" title="Fiddlestix" thumbnail="Fiddlestix/thumbs/Screenshot%202023-05-21%20at%205.59.37%20PM.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Fiddlestix/album.rss" title="Fiddlestix" thumbnail="Fiddlestix/thumbs/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Hollow%20woods/album.rss" title="Hollow Woods" thumbnail="Hollow%20woods/thumbs/2025-10Halloween.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Mandolin/album.rss" title="Mandolin Society" thumbnail="Mandolin/thumbs/BlueHorse1.JPG" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="PNHB/album.rss" title="PNHB" thumbnail="PNHB/thumbs/playingBellsMusicLabSocial.JPG" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="RC4GRockSquad/album.rss" title="RC4GRockSquad" thumbnail="RC4GRockSquad/thumbs/peg.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="WomensRockWeekendOct2008/album.rss" title="Womens Rock Weekend Oct 2008" thumbnail="WomensRockWeekendOct2008/thumbs/2008-10-26%2006%20dscf1216Normacaroline.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Rock%20Camp%20for%20Girla%202011-2012/album.rss" title="Rock Camp for Girls 2011-2012" thumbnail="Rock%20Camp%20for%20Girla%202011-2012/thumbs/peg.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     </channel>
 </rss>

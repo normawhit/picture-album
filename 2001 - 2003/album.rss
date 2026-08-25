@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2001 - 2003</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2001/album.rss" title="2001" thumbnail="2001/Baby%20Skye/thumbs/05InWalkerJune2002.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2002/album.rss" title="2002" thumbnail="2002/FamilyAndFriends2002/thumbs/00nSkyeottawa.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2003/album.rss" title="2003" thumbnail="2003/FamilyOttawaMarch2003/thumbs/01zacharynSkyein%20buggy.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

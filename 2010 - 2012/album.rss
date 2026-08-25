@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2010 - 2012</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2010/album.rss" title="2010" thumbnail="2010/ArnsideLancaster2010/thumbs/2010-04-22%2002%20dscf1641%20view%20from%20arnside%20knott.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2011/album.rss" title="2011" thumbnail="2011/StonewoodCottage2011/thumbs/13Norma%2C%20Kevin%2C%20Emma%20afloat.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2012/album.rss" title="2012" thumbnail="2012/BabySilviaMay5_2012/thumbs/BabySilvia%2C%20May%205.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

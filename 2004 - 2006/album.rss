@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2004 - 2006</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2004/album.rss" title="2004" thumbnail="2004/FamilyEarly2004/thumbs/bedtime.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2005/album.rss" title="2005" thumbnail="2005/BabyNicholasMarch19_2005/thumbs/01newbornviv%20Nicholas%20close%20up.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2006/album.rss" title="2006" thumbnail="2006/BlueSeaJune2006/thumbs/blueseagroup.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    </channel>
+</rss>

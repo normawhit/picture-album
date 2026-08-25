@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Family Photos look right</title>
+   	<link>..</link>
+        <generator>jAlbum 39.7</generator>
+   		<description>
+</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>go up</title>
+            <link>slides/VivianFamily2013.html</link>
+            <pubDate>Sun, 23 Aug 2026 18:58:19 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/VivianFamily2013.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/VivianFamily2013.jpeg" width="758" height="723"/>
+            <jalbum:exif originalDate="" cameraMake="EPSON" cameraModel="WF-2520/2530/2540"/>
+            <guid isPermaLink="false">slides/VivianFamily2013.jpeg</guid>
+        </item>
+    </channel>
+</rss>
