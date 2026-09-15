@@ -13,8 +13,11 @@ document.onkeydown = function(event) {
 		case 38: // up
 			location.href = '../index.html';
 			break;
+		case 37: // back
+			location.href = 'Ken%2CAllison%20at%20home.html';
+			break;
 		case 39: // forward
-			location.href = '2024%20AllSmilesinScotland.html';
+			location.href = 'DorothyNormaJune2023.html';
 			break;
 	}
 };
@@ -25,11 +28,11 @@ document.onkeydown = function(event) {
 <body id="slide-page" class="responsive">
 	<header class="autohide">
 		<div id="nav">
-			<a class="btn" href="../index.html" title="To index page"><img src="../../../res/icon/thin/light/index.svg" alt="To index page"></a>
+			<a class="btn" href="../index.html" title="To index page"><img src="../../../res/icon/thin/dark/index.svg" alt="To index page"></a>
 			
 			
-			<span class="btn" title="At first page"><img src="../../../res/icon/thin/light/prev-disabled.svg" alt="At first page"></span>
-			<a class="btn" href="2024%20AllSmilesinScotland.html" title="Next page"><img src="../../../res/icon/thin/light/next.svg" alt="Next page"></a>
+			<a class="btn" href="Ken%2CAllison%20at%20home.html" title="Previous page"><img src="../../../res/icon/thin/dark/prev.svg" alt="Next page"></a>
+			<a class="btn" href="DorothyNormaJune2023.html" title="Next page"><img src="../../../res/icon/thin/dark/next.svg" alt="Next page"></a>
 		</div>
 	</header>
 	
@@ -37,7 +40,8 @@ document.onkeydown = function(event) {
 		<div id="imagewrap">
 			<img src="2023AllSmilesinScotland.png" width="431" height="553" alt="2023 All Smiles">		
 		</div>		
-		<a href="2024%20AllSmilesinScotland.html" id="slide-next" title="Next page"></a>
+		<a href="Ken%2CAllison%20at%20home.html" id="slide-prev" title="Previous page"></a>
+		<a href="DorothyNormaJune2023.html" id="slide-next" title="Next page"></a>
 	</div>
 			
 	<footer class="autohide" id="caption" style="max-width: 431px">
@@ -51,8 +55,8 @@ document.onkeydown = function(event) {
 <div id="jalbumwidgetcontainer"></div>
 <script>
 _jaSkin = "Minimal";
-_jaStyle = "light.css";
-_jaVersion = "39.7";
+_jaStyle = "mixed.css";
+_jaVersion = "39.9.4";
 _jaGeneratorType = "desktop";
 _jaLanguage = "en";
 _jaPageType = "slide";

@@ -5,7 +5,7 @@
     <channel>
         <title>Picture album</title>
    	<link>.</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
     	<jalbum:link rel="sub" href="Family%20Photos%20look%20right/album.rss" title="Family Photos look right" thumbnail="Family%20Photos%20look%20right/thumbs/VivianFamily2013.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
@@ -15,7 +15,7 @@
     	<jalbum:link rel="sub" href="2010%20-%202012/album.rss" title="2010 - 2012" thumbnail="2010%20-%202012/2010/ArnsideLancaster2010/thumbs/2010-04-22%2002%20dscf1641%20view%20from%20arnside%20knott.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="2013%20-%202014/album.rss" title="2013 - 2014" thumbnail="2013%20-%202014/thumbs/EmmaAug2013.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Vivian%20family/album.rss" title="Vivian family" thumbnail="Vivian%20family/thumbs/noelBirthday12.png" thumbnailWidth="124" thumbnailHeight="124" />
-    	<jalbum:link rel="sub" href="Sandra%20family/album.rss" title="Sandra family" thumbnail="Sandra%20family/thumbs/Emma%20sings_%20Be%20Kind%20to%20Your%20Parents.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Sandra%20family/album.rss" title="Sandra family" thumbnail="Sandra%20family/thumbs/Screenshot%202023-06-21%20at%2011.46.19%20AM.png" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Historic/album.rss" title="Historic" thumbnail="Historic/thumbs/Norma%20-%20baby%20vivian.png" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Various%20Holidays/album.rss" title="Various Holidays" thumbnail="Various%20Holidays/2002%20CiqueTerra%20withExtras%20from%20later%20year/thumbs/00PortoVenereHotelBelvedereBalcony2002.09.15.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Music%20groups/album.rss" title="Music groups" thumbnail="Music%20groups/Fiddlestix/thumbs/2023%20St%20Patricks%20with%20Sally%20and%20Pam%20and%20Jen.jpg" thumbnailWidth="124" thumbnailHeight="124" />

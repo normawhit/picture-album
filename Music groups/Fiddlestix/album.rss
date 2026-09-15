@@ -5,7 +5,7 @@
     <channel>
         <title>Fiddlestix</title>
    	<link>../..</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
@@ -82,6 +82,39 @@
             <media:content type="image/jpeg" url="slides/2025-10Janice%2C%20Norma%202025-10%20at%20Fiddlestix.jpg" width="1065" height="800"/>
             <jalbum:exif originalDate="Tue, 28 Oct 2025 20:22:56 -0400" cameraMake="Apple" cameraModel="iPhone SE (2nd generation)"/>
             <guid isPermaLink="false">slides/2025-10Janice%2C%20Norma%202025-10%20at%20Fiddlestix.jpg</guid>
+        </item>
+        <item>
+            <title>FiddlestixAtZoo</title>
+            <link>slides/FiddlestixAtZoo.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description>Fiddlestix at Zoo</description>
+            <media:description type="html">Fiddlestix at Zoo</media:description>
+            <media:thumbnail url="thumbs/FiddlestixAtZoo.jpg" width="124" height="124"/>
+            <media:content  url="slides/FiddlestixAtZoo.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Sun, 08 Jun 2025 13:20:51 -0400" cameraMake="Apple" cameraModel="iPhone 16e"/>
+            <guid isPermaLink="false">slides/FiddlestixAtZoo.jpg</guid>
+        </item>
+        <item>
+            <title>Sally Video 2</title>
+            <link>slides/Sally%20Video%202.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description>Sally at Christmas concert</description>
+            <media:description type="html">Sally at Christmas concert</media:description>
+            <media:thumbnail url="thumbs/Sally%20Video%202.jpg" width="124" height="124"/>
+            <media:content  url="slides/Sally%20Video%202.mp4" width="1200" height="675"/>
+            <jalbum:original url="slides/Sally%20Video%202.mp4" width="1920" height="1080" fileSize="25219520"/>
+            <guid isPermaLink="false">slides/Sally%20Video%202.jpg</guid>
+        </item>
+        <item>
+            <title>Fred&amp;GeorgeZoo</title>
+            <link>slides/Fred-GeorgeZoo.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description>Fred and George at Zoo</description>
+            <media:description type="html">Fred and George at Zoo</media:description>
+            <media:thumbnail url="thumbs/Fred-GeorgeZoo.jpg" width="124" height="124"/>
+            <media:content  url="slides/Fred-GeorgeZoo.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Sun, 08 Jun 2025 13:21:47 -0400" cameraMake="Apple" cameraModel="iPhone 16e"/>
+            <guid isPermaLink="false">slides/Fred-GeorgeZoo.jpg</guid>
         </item>
     </channel>
 </rss>

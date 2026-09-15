@@ -3,9 +3,9 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>Around Peterborough 2007</title>
+        <title>AroundPeterborough2007</title>
    	<link>../../..</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>

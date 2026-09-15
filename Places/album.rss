@@ -5,15 +5,15 @@
     <channel>
         <title>Places</title>
    	<link>..</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
     	<jalbum:link rel="sub" href="Blue%20Sea%202021/album.rss" title="Blue Sea 2021" thumbnail="Blue%20Sea%202021/thumbs/Boys.jpg" thumbnailWidth="124" thumbnailHeight="124" />
-    	<jalbum:link rel="sub" href="Glenforest%20Crescent/album.rss" title="Glenforext Crescent" thumbnail="Glenforest%20Crescent/thumbs/Norma%20with%20eBike.jpg" thumbnailWidth="124" thumbnailHeight="124" />
-    	<jalbum:link rel="sub" href="TobermoryJune04/album.rss" title="Tobermory June 04" thumbnail="TobermoryJune04/thumbs/11tobermoryharbour.jpg" thumbnailWidth="124" thumbnailHeight="124" />
-    	<jalbum:link rel="sub" href="LacChevreuilJune04/album.rss" title="Lac Chevreuil June 04" thumbnail="LacChevreuilJune04/thumbs/17hudsonokaferry.jpg" thumbnailWidth="124" thumbnailHeight="124" />
-    	<jalbum:link rel="sub" href="Lang%20Pioneer%20Village/album.rss" title="Lang Pioneer Village" thumbnail="Lang%20Pioneer%20Village/thumbs/Banjo%20Al%2C%20May%202012.JPG" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Glenforest%20Crescent/album.rss" title="Glenforest Crescent" thumbnail="Glenforest%20Crescent/thumbs/Norma%20with%20eBike.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Tobermory%20June%2004/album.rss" title="Tobermory June 04" thumbnail="Tobermory%20June%2004/thumbs/11tobermoryharbour.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Lac%20Chevreuil%20June%2004/album.rss" title="Lac Chevreuil June 04" thumbnail="Lac%20Chevreuil%20June%2004/thumbs/17hudsonokaferry.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Lang%20Pioneer%20Village/album.rss" title="Lang Pioneer Village" thumbnail="Lang%20Pioneer%20Village/thumbs/AlWithTwoBills.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="Munich/album.rss" title="Munich" thumbnail="Munich/thumbs/Beautiful%20Wlak.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
-    	<jalbum:link rel="sub" href="Scotland/album.rss" title="Scotland" thumbnail="Scotland/thumbs/2023AllSmilesinScotland.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="Scotland/album.rss" title="Scotland" thumbnail="Scotland/thumbs/Murdostoun%20tree%20and%20bus%20shelter.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     </channel>
 </rss>

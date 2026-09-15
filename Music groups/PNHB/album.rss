@@ -5,9 +5,22 @@
     <channel>
         <title>PNHB</title>
    	<link>../..</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>PNHB</title>
+            <link>slides/PNHB.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description>PNHB group
+</description>
+            <media:description type="html">PNHB group
+</media:description>
+            <media:thumbnail url="thumbs/PNHB.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PNHB.JPG" width="1067" height="800"/>
+            <jalbum:exif originalDate="Wed, 25 Jan 2012 12:10:07 -0500" cameraMake="Panasonic" cameraModel="DMC-ZS3"/>
+            <guid isPermaLink="false">slides/PNHB.JPG</guid>
+        </item>
         <item>
             <title>Norma on bells - Music Lab Social</title>
             <link>slides/playingBellsMusicLabSocial.html</link>

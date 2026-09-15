@@ -5,9 +5,52 @@
     <channel>
         <title>Scotland</title>
    	<link>../..</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Murdostoun tree and bus shelter</title>
+            <link>slides/Murdostoun%20tree%20and%20bus%20shelter.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Murdostoun%20tree%20and%20bus%20shelter.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Murdostoun%20tree%20and%20bus%20shelter.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/Murdostoun%20tree%20and%20bus%20shelter.jpg</guid>
+        </item>
+        <item>
+            <title>Ken in his very own chair</title>
+            <link>slides/Ken%20in%20his%20very%20own%20chair.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ken%20in%20his%20very%20own%20chair.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Ken%20in%20his%20very%20own%20chair.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/Ken%20in%20his%20very%20own%20chair.jpg</guid>
+        </item>
+        <item>
+            <title>Walled in tree</title>
+            <link>slides/Walled%20in%20tree.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Walled%20in%20tree.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Walled%20in%20tree.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
+            <guid isPermaLink="false">slides/Walled%20in%20tree.jpg</guid>
+        </item>
+        <item>
+            <title>Ken,Allison at home</title>
+            <link>slides/Ken%2CAllison%20at%20home.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ken%2CAllison%20at%20home.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Ken%2CAllison%20at%20home.jpg" width="480" height="640"/>
+            <guid isPermaLink="false">slides/Ken%2CAllison%20at%20home.jpg</guid>
+        </item>
         <item>
             <title>2023 All Smiles</title>
             <link>slides/2023AllSmilesinScotland.html</link>
@@ -17,16 +60,6 @@
             <media:thumbnail url="thumbs/2023AllSmilesinScotland.png" width="124" height="124"/>
             <media:content type="image/png" url="slides/2023AllSmilesinScotland.png" width="431" height="553"/>
             <guid isPermaLink="false">slides/2023AllSmilesinScotland.png</guid>
-        </item>
-        <item>
-            <title>2023 All Smiles</title>
-            <link>slides/2024%20AllSmilesinScotland.html</link>
-            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2024%20AllSmilesinScotland.png" width="124" height="124"/>
-            <media:content type="image/png" url="slides/2024%20AllSmilesinScotland.png" width="431" height="553"/>
-            <guid isPermaLink="false">slides/2024%20AllSmilesinScotland.png</guid>
         </item>
         <item>
             <title>Dorothy and Norma 2024</title>
@@ -47,17 +80,6 @@
             <media:thumbnail url="thumbs/Ken%20at%20Music%20group.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/Ken%20at%20Music%20group.jpg" width="1067" height="800"/>
             <guid isPermaLink="false">slides/Ken%20at%20Music%20group.jpg</guid>
-        </item>
-        <item>
-            <title>2024 Ken in new chair at Murdostoun</title>
-            <link>slides/2024-07-06Ken%20in%20new%20chair%20Murdostoun.html</link>
-            <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2024-07-06Ken%20in%20new%20chair%20Murdostoun.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/2024-07-06Ken%20in%20new%20chair%20Murdostoun.jpg" width="600" height="800"/>
-            <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
-            <guid isPermaLink="false">slides/2024-07-06Ken%20in%20new%20chair%20Murdostoun.jpg</guid>
         </item>
         <item>
             <title>July 2024 Ken with walker</title>

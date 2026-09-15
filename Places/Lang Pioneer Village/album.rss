@@ -5,9 +5,19 @@
     <channel>
         <title>Lang Pioneer Village</title>
    	<link>../..</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>AlWithTwoBills</title>
+            <link>slides/AlWithTwoBills.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description>Al Kirby with two Bills</description>
+            <media:description type="html">Al Kirby with two Bills</media:description>
+            <media:thumbnail url="thumbs/AlWithTwoBills.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/AlWithTwoBills.jpg" width="512" height="288"/>
+            <guid isPermaLink="false">slides/AlWithTwoBills.jpg</guid>
+        </item>
         <item>
             <title>Al with Banjo 2012</title>
             <link>slides/Banjo%20Al%2C%20May%202012.html</link>

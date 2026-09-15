@@ -3,9 +3,9 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>Glenforext Crescent</title>
+        <title>Glenforest Crescent</title>
    	<link>../..</link>
-        <generator>jAlbum 39.7</generator>
+        <generator>jAlbum 39.9</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
@@ -107,11 +107,22 @@
             <guid isPermaLink="false">slides/MountainAsh.jpg</guid>
         </item>
         <item>
+            <title>AshGetsHaircut</title>
+            <link>slides/AshGetsHaircut.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description>Ash tree gets a haircut 2025</description>
+            <media:description type="html">Ash tree gets a haircut 2025</media:description>
+            <media:thumbnail url="thumbs/AshGetsHaircut.jpg" width="124" height="124"/>
+            <media:content  url="slides/AshGetsHaircut.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="Thu, 26 Jun 2025 13:33:47 -0400" cameraMake="Apple" cameraModel="iPhone 16e"/>
+            <guid isPermaLink="false">slides/AshGetsHaircut.jpg</guid>
+        </item>
+        <item>
             <title>Porch planter 2025</title>
             <link>slides/2025%20planter.html</link>
             <pubDate>Sat, 08 Aug 2026 20:46:22 -0400</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
+            <description>Mountain ash matches day lilies</description>
+            <media:description type="html">Mountain ash matches day lilies</media:description>
             <media:thumbnail url="thumbs/2025%20planter.png" width="124" height="124"/>
             <media:content type="image/png" url="slides/2025%20planter.png" width="1067" height="800"/>
             <guid isPermaLink="false">slides/2025%20planter.png</guid>
@@ -159,6 +170,39 @@
             <media:content type="image/jpeg" url="slides/Sideof%20house%202024.jpg" width="600" height="800"/>
             <jalbum:exif originalDate="" cameraMake="samsung" cameraModel="SM-A115W"/>
             <guid isPermaLink="false">slides/Sideof%20house%202024.jpg</guid>
+        </item>
+        <item>
+            <title>KeithDoubleTasking</title>
+            <link>slides/KeithDoubleTasking.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description>Keith double tasking</description>
+            <media:description type="html">Keith double tasking</media:description>
+            <media:thumbnail url="thumbs/KeithDoubleTasking.jpg" width="124" height="124"/>
+            <media:content  url="slides/KeithDoubleTasking.jpg" width="600" height="800"/>
+            <jalbum:exif originalDate="Tue, 20 May 2025 14:28:04 -0400" cameraMake="Apple" cameraModel="iPhone 16e"/>
+            <guid isPermaLink="false">slides/KeithDoubleTasking.jpg</guid>
+        </item>
+        <item>
+            <title>MountainAsh&amp;DayLillies</title>
+            <link>slides/MountainAsh-DayLillies.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MountainAsh-DayLillies.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/MountainAsh-DayLillies.JPG" width="598" height="800"/>
+            <jalbum:exif originalDate="Sat, 17 Aug 2019 11:07:10 -0400" cameraMake="Apple" cameraModel="iPad Air"/>
+            <guid isPermaLink="false">slides/MountainAsh-DayLillies.JPG</guid>
+        </item>
+        <item>
+            <title>PlanterFront</title>
+            <link>slides/PlanterFront.html</link>
+            <pubDate>Mon, 14 Sep 2026 17:17:53 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PlanterFront.jpg" width="124" height="124"/>
+            <media:content  url="slides/PlanterFront.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Tue, 20 May 2025 13:55:44 -0400" cameraMake="Apple" cameraModel="iPhone 16e"/>
+            <guid isPermaLink="false">slides/PlanterFront.jpg</guid>
         </item>
     </channel>
 </rss>
